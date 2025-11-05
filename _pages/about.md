@@ -134,8 +134,8 @@ My research mainly focuses on blockchain, spanning the fields of **Information S
 
 # 🎖 Awards, Honors, and Scholarships
 **[Awards]**
-- [第十四届“挑战杯”中国大学生创业计划竞赛全国金奖(“一带一路”国际邀请专项赛)](http://m.cyol.com/gb/articles/2025-01/08/content_lb65xQsWog.html)
-- 第十三届“挑战杯”中国大学生创业计划竞赛全国金奖、省级金奖、校级金奖
+- [第十四届“挑战杯”中国大学生创业计划竞赛全国金奖(负责人)](http://m.cyol.com/gb/articles/2025-01/08/content_lb65xQsWog.html)
+- 第十三届“挑战杯”中国大学生创业计划竞赛全国金奖、省级金奖、校级金奖(排名第二)
 - 第六届中国国际“互联网+”创新创业大赛全国银奖、省级金奖、校级金奖
 - 第八届中国研究生智慧城市技术与创意设计大赛二等奖
 - 第八届江苏省“互联网+”大学生创新创业大赛二等奖
