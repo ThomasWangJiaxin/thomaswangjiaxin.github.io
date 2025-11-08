@@ -37,7 +37,7 @@ My research mainly focuses on blockchain, spanning the fields of **Information S
 
 - Methodologies: **Quantitative and Qualitative analysis - Bibliometrics, Topic Modeling**
 
-- Research Question: To review the current status and future trends of blockchain's integration with other frontier technologies, including Federated Learning and Artificial Intelligence (AI).
+- Research Question: To review the current status and future trends of blockchain's integration with other frontier technologies, including Federated Learning and AI.
 
 <!-- I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=Vm54jdoAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=Vm54jdoAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
@@ -124,7 +124,7 @@ My research mainly focuses on blockchain, spanning the fields of **Information S
 
 - 基于超图的引文推荐方法及电子设备[P] (No. CN120524006A). 颜嘉麒;柳亚;朱莉;**王佳鑫**;毛谦昂;胡广伟. 2025-09-26. [*Translation: Citation Recommendation Method and Electronic Device Based on Hypergraph. Jiaqi Yan, Ya Liu, Li Zhu, **Jiaxin Wang**, Qian’ang Mao, Guangwei Hu. China Patent No. CN120524006A. Published September 26, 2025.*]
 
-- 基于流程挖掘的黑灰产交易分析方法和电子设备[P] (申请号:202511595813.4). 颜嘉麒;张祎;王玺罡;**王佳鑫**,蔡都. 2025-11-10. [*Translation: Process-Mining-Based Analysis Method and Electronic Device for Black and Gray Market Transactions. Jiaqi Yan, Yi Zhang, Xigang Wang, **Jiaxin Wang**, Du Cai.*]
+- 基于流程挖掘的黑灰产交易分析方法和电子设备[P] (申请号: 202511595813.4). 颜嘉麒;张祎;王玺罡;**王佳鑫**,蔡都. 2025-11-10. [*Translation: Process-Mining-Based Analysis Method and Electronic Device for Black and Gray Market Transactions. Jiaqi Yan, Yi Zhang, Xigang Wang, **Jiaxin Wang**, Du Cai.*]
 
 # 💬 Services
 - [Journal Reviews:《Journal of Intellectual Capital》(JCR Q1),《IET Blockchain》(EI) Reviewer](https://orcid.org/0000-0002-8432-7902)
