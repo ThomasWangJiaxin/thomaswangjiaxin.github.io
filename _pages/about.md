@@ -99,7 +99,7 @@ My research mainly focuses on blockchain, spanning the fields of **Information S
 
 - AI for Web3 Business Ecosystems: A New Conceptual Framework. Li Zhu, **Jiaxin Wang***, Ya Liu, Qian'ang Mao, Jiaqi Yan. **Under the 1st Review of Journal of Technolgy Transfer (JCR Q2, ABS 3, ABDC B)**
 
-- The Adoption of Open-source Blockchain Platforms by Developers based on Bass Diffusion Models. **Jiaxin Wang**, Zhengrui Jiang*, Jiaqi Yan.
+- The Adoption of Open-source Blockchain Platforms by Developers based on Bass Diffusion Models. **Jiaxin Wang**, Zhengrui Jiang, Jiaqi Yan.
 
 - Understanding the motivations and roles of blockchain software developers. **Jiaxin Wang**, Jiaqi Yan, Shanshan Li.
 
@@ -132,7 +132,7 @@ My research mainly focuses on blockchain, spanning the fields of **Information S
 - 基于流程挖掘的黑灰产交易分析方法和电子设备[P] (申请号: 202511595813.4). 颜嘉麒;张祎;王玺罡;**王佳鑫**,蔡都. 2025-11-10. [*Translation: Process-Mining-Based Analysis Method and Electronic Device for Black and Gray Market Transactions. Jiaqi Yan, Yi Zhang, Xigang Wang, **Jiaxin Wang**, Du Cai.*]
 
 
-# 💬 Teaching
+# 💬 Teaching Assistant
 - 南京大学本科生《信息组织》(2025春、2024春、2023春)
 - 南京大学本科生通识课程《区块链与创新思维》
 - 南京大学本科生通识课程《数字货币、金融科技与监管科技》
