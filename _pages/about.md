@@ -70,7 +70,7 @@ My research mainly focuses on blockchain, spanning the fields of **Information S
 
 - [Architectural Patterns for Blockchain-enabled Federated Learning](https://doi.org/10.1016/j.jss.2025.112695)[J]. **Jiaxin Wang**, Dongying Shi, Shanshan Li, Jiaqi Yan, et al. **Journal of Systems and Software (JCR Q1, CCF-B, Core B)**
 
-- [Smoke and mirrors: Uncovering hidden delegatees within crypto gambling ecosystems](https://scholarspace.manoa.hawaii.edu/items/f01d09b1-10f5-4e4f-b72c-431709ab9320)[C]. **Jiaxin Wang**, Qian'ang Mao, Hongliang Sun, Jiaqi Yan, Yani Shi. **Proceedings of the 58th Hawaii International Conference on System Sciences (HICSS-58, Core B, *Best Paper Nomination*)**.
+- [Smoke and mirrors: Uncovering hidden delegatees within crypto gambling ecosystems](https://scholarspace.manoa.hawaii.edu/items/f01d09b1-10f5-4e4f-b72c-431709ab9320)[C]. **Jiaxin Wang**, Qian'ang Mao, Hongliang Sun, Jiaqi Yan, Yani Shi. **Proceedings of the 58th Hawaii International Conference on System Sciences (HICSS-58, Core B, <strong><span style="color:#8B0000;">Best Paper Nomination</span></strong>)**.
 
 - [Targeting the Achilles’ Heel: A GNN Framework for Dismantling Cryptocurrency War-Financing Networks](https://aisel.aisnet.org/icis2024/blockchain/blockchain/6/)[C]. Qian'ang Mao, **Jiaxin Wang**, Jiaqi Yan et al. **International Conference on Information Systems(ICIS 2024, Core A+, *Best Paper Nomination & Best Paper in Track*)**.
 
