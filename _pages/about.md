@@ -99,6 +99,11 @@ My research mainly focuses on blockchain, spanning the fields of **Information S
 
 - AI for Web3 Business Ecosystems: A New Conceptual Framework. Li Zhu, **Jiaxin Wang***, Ya Liu, Qian'ang Mao, Jiaqi Yan. **Under the 1st Review of Journal of Technolgy Transfer (JCR Q2, ABS 3, ABDC B)**
 
+- The Adoption of Open-source Blockchain Platforms by Developers based on Bass Diffusion Models. **Jiaxin Wang**, Zhengrui Jiang*, Jiaqi Yan.
+
+- Understanding the motivations and roles of blockchain software developers. **Jiaxin Wang**, Jiaqi Yan, Shanshan Li.
+
+
 
 # 📝 Presentation 
 
@@ -125,6 +130,12 @@ My research mainly focuses on blockchain, spanning the fields of **Information S
 - 基于超图的引文推荐方法及电子设备[P] (No. CN120524006A). 颜嘉麒;柳亚;朱莉;**王佳鑫**;毛谦昂;胡广伟. 2025-09-26. [*Translation: Citation Recommendation Method and Electronic Device Based on Hypergraph. Jiaqi Yan, Ya Liu, Li Zhu, **Jiaxin Wang**, Qian’ang Mao, Guangwei Hu. China Patent No. CN120524006A. Published September 26, 2025.*]
 
 - 基于流程挖掘的黑灰产交易分析方法和电子设备[P] (申请号: 202511595813.4). 颜嘉麒;张祎;王玺罡;**王佳鑫**,蔡都. 2025-11-10. [*Translation: Process-Mining-Based Analysis Method and Electronic Device for Black and Gray Market Transactions. Jiaqi Yan, Yi Zhang, Xigang Wang, **Jiaxin Wang**, Du Cai.*]
+
+
+# 💬 Teaching
+- 南京大学本科生《信息组织》(2025春、2024春、2023春)
+- 南京大学本科生通识课程《区块链与创新思维》
+- 南京大学本科生通识课程《数字货币、金融科技与监管科技》
 
 # 💬 Services
 - [Journal Reviews:《Journal of Intellectual Capital》(JCR Q1),《IET Blockchain》(EI) Reviewer](https://orcid.org/0000-0002-8432-7902)
