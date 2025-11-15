@@ -68,7 +68,7 @@ My research mainly focuses on blockchain, spanning the fields of **Information S
 
 - [Behind the scenes in metaverses: exploring undercover role cooperations with cryptocurrency transactions through an intellectual capital lens](https://doi.org/10.1108/JIC-03-2025-0068)[J]. **Jiaxin Wang**, Qian'ang Mao, Jiaqi Yan. **Journal of Intellectual Capital (JCR Q1, ABS 2, ABDC B)**.
 
-- [Architectural Patterns for Blockchain-enabled Federated Learning](https://doi.org/10.1016/j.jss.2025.112695)[J]. **Jiaxin Wang**, Dongying Shi, Shanshan Li, Jiaqi Yan, et al. **Journal of Systems and Software (JCR Q1, CCF-B, Core B)**
+- [Architectural Patterns for Blockchain-enabled Federated Learning: A Systematic Literature Review](https://doi.org/10.1016/j.jss.2025.112695)[J]. **Jiaxin Wang**, Dongying Shi, Shanshan Li, Jiaqi Yan, et al. **Journal of Systems and Software (JCR Q1, CCF-B, Core B)**
 
 - [Smoke and mirrors: Uncovering hidden delegatees within crypto gambling ecosystems](https://scholarspace.manoa.hawaii.edu/items/f01d09b1-10f5-4e4f-b72c-431709ab9320)[C]. **Jiaxin Wang**, Qian'ang Mao, Hongliang Sun, Jiaqi Yan, Yani Shi. **Proceedings of the 58th Hawaii International Conference on System Sciences (HICSS-58, Core B, <strong><span style="color:#8B0000;">Best Paper Nomination</span></strong>)**.
 
@@ -97,7 +97,7 @@ My research mainly focuses on blockchain, spanning the fields of **Information S
 
 # 📝 Working Papers 
 
-- AI for Web3 Business Ecosystems: A New Conceptual Framework. Li Zhu, **Jiaxin Wang***, Ya Liu, Qian'ang Mao, Jiaqi Yan. **Under the 1st Review of Journal of Technolgy Transfer (JCR Q2, ABS 3, ABDC B)**
+- AI for Web3 Business Ecosystems: A New Conceptual Framework. Li Zhu, **Jiaxin Wang***, Ya Liu, Qian'ang Mao, Jiaqi Yan. **Under the 1st Review of Technological Forecasting and Social Change (JCR Q1, ABS 3, 中科院一区Top)**
 
 - The Adoption of Open-source Blockchain Platforms by Developers based on Bass Diffusion Models. **Jiaxin Wang**, Zhengrui Jiang, Jiaqi Yan.
 
