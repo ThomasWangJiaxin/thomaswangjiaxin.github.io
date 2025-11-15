@@ -72,7 +72,7 @@ My research mainly focuses on blockchain, spanning the fields of **Information S
 
 - [Smoke and mirrors: Uncovering hidden delegatees within crypto gambling ecosystems](https://scholarspace.manoa.hawaii.edu/items/f01d09b1-10f5-4e4f-b72c-431709ab9320)[C]. **Jiaxin Wang**, Qian'ang Mao, Hongliang Sun, Jiaqi Yan, Yani Shi. **Proceedings of the 58th Hawaii International Conference on System Sciences (HICSS-58, Core B, <strong><span style="color:#8B0000;">Best Paper Nomination</span></strong>)**.
 
-- [Targeting the Achilles’ Heel: A GNN Framework for Dismantling Cryptocurrency War-Financing Networks](https://aisel.aisnet.org/icis2024/blockchain/blockchain/6/)[C]. Qian'ang Mao, **Jiaxin Wang**, Jiaqi Yan et al. **International Conference on Information Systems(ICIS 2024, Core A+, *Best Paper Nomination & Best Paper in Track*)**.
+- [Targeting the Achilles’ Heel: A GNN Framework for Dismantling Cryptocurrency War-Financing Networks](https://aisel.aisnet.org/icis2024/blockchain/blockchain/6/)[C]. Qian'ang Mao, **Jiaxin Wang**, Jiaqi Yan et al. **International Conference on Information Systems(ICIS 2024, Core A+, <strong><span style="color:#8B0000;">Best Paper Nomination & Best Paper in Track</span></strong>)**.
 
 - [Identifying Crypto Addresses with Gambling Behaviors: A Graph Neural Network Approach](https://aisel.aisnet.org/pacis2023/210/)[C]. **Jiaxin Wang**, Qian'ang Mao, Jiaqi Yan et al. **Pacific Asia Conference on Information Systems(PACIS 2023, Core B)**, Nanchang, China.
 
@@ -97,7 +97,7 @@ My research mainly focuses on blockchain, spanning the fields of **Information S
 
 # 📝 Working Papers 
 
-- AI for Web3 Business Ecosystems: A New Conceptual Framework. Li Zhu, **Jiaxin Wang***, Ya Liu, Qian'ang Mao, Jiaqi Yan. **Under the 1st Review of Technological Forecasting and Social Change (JCR Q1, ABS 3, 中科院一区Top)**
+- AI for Web3 Business Ecosystems: A New Conceptual Framework. Li Zhu, **Jiaxin Wang***, Ya Liu, Qian'ang Mao, Jiaqi Yan*. **Under the 1st Review of Technological Forecasting and Social Change (JCR Q1, ABS 3, 中科院一区Top)**
 
 - The Adoption of Open-source Blockchain Platforms by Developers based on Bass Diffusion Models. **Jiaxin Wang**, Zhengrui Jiang, Jiaqi Yan.
 
@@ -107,9 +107,9 @@ My research mainly focuses on blockchain, spanning the fields of **Information S
 
 # 📝 Presentation 
 
-- Smoke and mirrors: Uncovering hidden delegatees within crypto gambling ecosystems [*Oral Presentation*]. **Jiaxin Wang**, Qian'ang Mao, Hongliang Sun, Jiaqi Yan. **[The 9th International Conference on Smart Finance](https://cbit.cuhk.edu.cn/ICSF/ICSF24/index.html) (ICSF2024, *Best Paper in NFT & Blockchain Track*)**
+- Smoke and mirrors: Uncovering hidden delegatees within crypto gambling ecosystems [*Oral Presentation*]. **Jiaxin Wang**, Qian'ang Mao, Hongliang Sun, Jiaqi Yan. **[The 9th International Conference on Smart Finance](https://cbit.cuhk.edu.cn/ICSF/ICSF24/index.html) (ICSF2024, <strong><span style="color:#8B0000;">Best Paper in NFT & Blockchain Track</span></strong>)**
 
-- Demystifying Underground Crypto Financing in International Conflicts: Identification of Key Roles and Transactions with Graph Neural Networks [*Oral Presentation*]. Qian'ang Mao, **Jiaxin Wang**, Jiaqi Yan et al. **[The 9th International Conference on Smart Finance](https://cbit.cuhk.edu.cn/ICSF/ICSF24/index.html) (ICSF2024, *Best Paper in Fintech & Stock Market Track*)**
+- Demystifying Underground Crypto Financing in International Conflicts: Identification of Key Roles and Transactions with Graph Neural Networks [*Oral Presentation*]. Qian'ang Mao, **Jiaxin Wang**, Jiaqi Yan et al. **[The 9th International Conference on Smart Finance](https://cbit.cuhk.edu.cn/ICSF/ICSF24/index.html) (ICSF2024, <strong><span style="color:#8B0000;">Best Paper in Fintech & Stock Market Track</span></strong>)**
 
 - Unveiling Contributor Roles and Evolution in Bitcoin Open-Source Projects: Insights into the Dynamics of Cryptocurrency Price [*Oral Presentation*]. **Jiaxin Wang**, Yuxuan Zhang, Qian'ang Mao, Xiangbin Peng, and Jiaqi Yan. **[The 13th SIG BIT Workshop on Web3 Ecosystems and Artificial Intelligence](https://icis2024.aisconferences.org/events/ancillary-meetings-and-call-for-papers/)**, Bangkok, Thailand.
 
