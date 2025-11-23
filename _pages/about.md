@@ -105,7 +105,7 @@ My research mainly focuses on blockchain, spanning the fields of **Information S
 
 - SoK: Blockchain Forks. **Jiaxin Wang**, Jiaqi Yan.
 
-- [Decoding TRON: A Comprehensive Framework for Large-Scale Blockchain Data Extraction and Exploration.](https://arxiv.org/abs/2509.16292). Qian'ang Mao, Jiaxin Wang, Zhiqi Feng, Yi Zhang, Jiaqi Yan.
+<!-- [Decoding TRON: A Comprehensive Framework for Large-Scale Blockchain Data Extraction and Exploration.](https://arxiv.org/abs/2509.16292). Qian'ang Mao, Jiaxin Wang, Zhiqi Feng, Yi Zhang, Jiaqi Yan. -->
 
 
 # 📝 Presentation 
