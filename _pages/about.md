@@ -97,9 +97,9 @@ My research mainly focuses on blockchain, spanning the fields of **Information S
 
 # 📝 Working Papers 
 
-- AI for Web3 Business Ecosystems: A Conceptual Framework. Li Zhu, Jiaxin Wang*, Ya Liu, Qian'ang Mao, Jiaqi Yan*. **Under the 1st Review of Technological Forecasting and Social Change (JCR Q1, ABS 3, 中科院一区Top)**
+- AI for Web3 Business Ecosystems: A Conceptual Framework. Li Zhu, Jiaxin Wang*, Ya Liu, Qian'ang Mao, Jiaqi Yan*. **Under the 1st Review of Internation Journal of Information Management (JCR Q1, 中科院一区Top)**
 
-- The Adoption of Open-source Blockchain Platforms by Developers based on Bass Diffusion Models. **Jiaxin Wang**, Zhengrui Jiang, Jiaqi Yan.
+- The Adoption and Competition of Open-source Blockchain Platforms: Evidence from the Diffusion of Developers. **Jiaxin Wang**, Zhengrui Jiang, Jiaqi Yan.
 
 - Understanding the motivations and roles of blockchain software developers. **Jiaxin Wang**, Jiaqi Yan, Shanshan Li.
 
