@@ -172,6 +172,7 @@ My research mainly focuses on blockchain, spanning the fields of **Information S
 
 **[Honors]**
 - 上海市优秀毕业生(2021)
+- 南京大学公益服务优秀奖(2025)
 - 南京大学优秀研究生共产党员(2024)
 - 南京大学优秀研究生标兵(2022)
 - 南京大学优秀研究生(2023,2024)
