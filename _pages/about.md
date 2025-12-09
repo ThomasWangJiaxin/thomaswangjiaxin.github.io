@@ -101,11 +101,13 @@ My research mainly focuses on blockchain, spanning the fields of **Information S
 
 - The Adoption and Competition of Blockchain Open-source Software: Evidence from the Diffusion of Developers. **Jiaxin Wang**, Zhengrui Jiang, Jiaqi Yan.
 
-- Understanding the Motivations and Roles of Developers in Blockchain Open-source Software. **Jiaxin Wang**, Jiaqi Yan, Shanshan Li.
+- Understanding the Motivations and Roles of Developers in Blockchain Open-source Software. **Jiaxin Wang**.
 
-- An Empirical Study on Blockchain Forks. **Jiaxin Wang**, Jiaqi Yan.
+- Sok: Blockchain Forks. **Jiaxin Wang**.
 
-- Boundary-spanning Identities in Blockchain Innovation Domains. **Jiaxin Wang**, Chenyu Li, Jiaqi Yan.
+- An Empirical Study of Bitcoin Forks: A Multi-Stakeholder Perspective. **Jiaxin Wang**.
+
+- Boundary-spanning Identities in Blockchain Innovation Domains. **Jiaxin Wang**.
 
 <!-- [Decoding TRON: A Comprehensive Framework for Large-Scale Blockchain Data Extraction and Exploration.](https://arxiv.org/abs/2509.16292). Qian'ang Mao, Jiaxin Wang, Zhiqi Feng, Yi Zhang, Jiaqi Yan. -->
 
