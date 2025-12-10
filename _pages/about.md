@@ -88,7 +88,7 @@ My research mainly focuses on blockchain, spanning the fields of **Information S
 
 - [加密数字货币监管技术研究综述](https://www.joca.cn/CN/10.11772/j.issn.1001-9081.2022111694)[J]. **王佳鑫**,颜嘉麒,毛谦昂. **计算机应用(CSCD)**,2023,43(10):2983-2995. [*Translation: Overview of cryptocurrency regulatory technologies research[J]. **Jiaxin Wang**, Jiaqi Yan, Qian’ang Mao. **Journal of Computer Applications(CSCD)**,2023,43(10):2983–2995.*]
 
-- [加密数字货币恐怖融资监管：交易模式分析与异常实体识别](https://dik.whu.edu.cn/jwk3/tsqbzs/CN/10.13366/j.dik.2022.06.055)[J]. 颜嘉麒,**王佳鑫(通讯作者)**,毛谦昂等. **图书情报知识(CSSCI,社科基金资助期刊)**,2022,39(6):55-66. [*Translation: Cryptocurrency Terrorist Financing Regulation: Transaction Pattern Analysis and Abnormal Entity Identification[J]. Jiaqi Yan, **Jiaxin Wang(Corresponding Author)**, Qian’ang Mao, et al. **Documentation, Information & Knowledge(CSSCI, National Social Science Foundation Journal)**,2022,39(6):55–66.*]
+- [加密数字货币恐怖融资监管：交易模式分析与异常实体识别](https://dik.whu.edu.cn/jwk3/tsqbzs/CN/10.13366/j.dik.2022.06.055)[J]. 颜嘉麒,**王佳鑫(通讯)**,毛谦昂等. **图书情报知识(CSSCI,社科基金资助期刊)**,2022,39(6):55-66. [*Translation: Cryptocurrency Terrorist Financing Regulation: Transaction Pattern Analysis and Abnormal Entity Identification[J]. Jiaqi Yan, **Jiaxin Wang(Corresponding Author)**, Qian’ang Mao, et al. **Documentation, Information & Knowledge(CSSCI, National Social Science Foundation Journal)**,2022,39(6):55–66.*]
 
 - [区块链游戏生态的角色动态识别与演化分析——以Axie Infinity为例](https://www.jas.shu.edu.cn/CN/10.3969/j.issn.0255-8297.2024.04.007)[J]. 刘凯,**王佳鑫**,毛谦昂等. **应用科学学报(CSCD)**,2024,42(04):642-658. [*Translation: Dynamic Role Identification and Evolutionary Analysis of Blockchain Game Ecosystems: A Case Study of Axie Infinity[J]. Kai Liu, **Jiaxin Wang**, Qian’ang Mao, et al. **Journal of Applied Sciences(CSCD)**,2024,42(04):642–658.*]
 
@@ -97,7 +97,7 @@ My research mainly focuses on blockchain, spanning the fields of **Information S
 
 # 📝 Working Papers 
 
-- AI for Web3 Business Ecosystems: A Conceptual Framework. Li Zhu, Jiaxin Wang*, Ya Liu, Qian'ang Mao, Jiaqi Yan*. **Under the 1st Review of International Journal of Information Management (JCR Q1, 中科院一区Top)**
+- AI for Web3 Business Ecosystems: A Conceptual Framework. Li Zhu, Jiaxin Wang(共同通讯)*, Ya Liu, Qian'ang Mao, Jiaqi Yan*. **Under the 1st Review of International Journal of Information Management (JCR Q1, 中科院一区Top)**
 
 - The Adoption and Competition of Blockchain Open-source Software: Evidence from the Diffusion of Developers. **Jiaxin Wang**, Zhengrui Jiang, Jiaqi Yan.
 
