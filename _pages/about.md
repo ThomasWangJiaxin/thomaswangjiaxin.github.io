@@ -191,7 +191,7 @@ My research mainly focuses on blockchain, spanning the fields of **Information S
 
 **[Scholarship]**
 - 本科生国家奖学金(2020)
-- <strong><span style="color:#8B0000;">南京大学栋梁特等奖学金(2025,全校1/20,研究生1/9)</span></strong>
+- <strong><span style="color:#8B0000;">南京大学栋梁特等奖学金(2025,全校22人,其中本科生13人,研究生9人)</span></strong>
 - 南京大学栋梁优秀奖学金——自主创业奖(2024)
 - 南京大学-中国光谷奖学金(2023)
 - 南京大学研究生英才一等奖学金(2022)
