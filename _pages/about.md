@@ -145,7 +145,7 @@ My research mainly focuses on blockchain, spanning the fields of **Information S
 - 南京大学本科生通识课程《数字货币、金融科技与监管科技》
 
 # 💬 Services
-- [Journal Reviews:《Journal of Intellectual Capital》(JCR Q1),《IET Blockchain》(EI) Reviewer](https://orcid.org/0000-0002-8432-7902)
+- [Journal Reviews:《Journal of Intellectual Capital》(JCR Q1),《Digital Business》(JCR Q1),《IET Blockchain》(EI) Reviewer](https://orcid.org/0000-0002-8432-7902)
 - Conference Reviews: ICIS2025, PACIS2024/2025, HICSS-58/59; WWW2024, WWW2025, KDD2024, AAAI2026
 - [Association of Information Systems (AIS) Doctoral Student College Volunteers - Region 3 Coordinator](https://communities.aisnet.org/doctoralstudentcollege/get-involved)
 
