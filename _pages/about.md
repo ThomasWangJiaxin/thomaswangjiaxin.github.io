@@ -156,7 +156,7 @@ My research mainly focuses on blockchain, spanning the fields of **Information S
 **[Awards]**
 - [第十四届“挑战杯”中国大学生创业计划竞赛全国金奖(负责人)](http://m.cyol.com/gb/articles/2025-01/08/content_lb65xQsWog.html)
 - [第十三届“挑战杯”中国大学生创业计划竞赛全国金奖、省级金奖、校级金奖(排名第二)](https://med.nju.edu.cn/4a/9b/c52497a608923/page.htm)
-- 第六届中国国际“互联网+”创新创业大赛全国银奖、省级金奖、校级金奖
+- [第六届中国国际“互联网+”创新创业大赛全国银奖、省级金奖、校级金奖](https://cy.ncss.cn/picture?path=heuatrua4fr84jzr&name=%E9%99%84%E4%BB%B62.pdf)
 - 第八届中国研究生智慧城市技术与创意设计大赛二等奖
 - 第八届江苏省“互联网+”大学生创新创业大赛二等奖
 - 第十届“赢在南京”青年大学生创业大赛二等奖
@@ -165,7 +165,7 @@ My research mainly focuses on blockchain, spanning the fields of **Information S
 - 第十二届中国大学生服务外包创新创业大赛全国二等奖、东部区域赛一等奖
 - 第九届上海市大学生电子商务“创新、创意、创业”大赛特等奖、最佳创意奖
 - 第十二届“挑战杯”上海市大学生创业计划竞赛银奖
-- 第七届上海市“互联网+”大学生创新创业大赛银奖
+- [第七届上海市“互联网+”大学生创新创业大赛银奖](https://edu.sh.gov.cn/cmsres/78/78cd003ae7d34e41a886ecda0395e95c/3c7ac28d86e6887d6aa34e530f238891.doc)
 - 第六届“汇创青春”上海市大学生文化创意作品展示活动一等奖*4、最佳表现奖、优秀展示奖
 - 2019年美国大学生数学建模大赛H奖
 - 第七届全国青年科普创新实验暨作品大赛上海赛区三等奖
@@ -191,7 +191,7 @@ My research mainly focuses on blockchain, spanning the fields of **Information S
 
 **[Scholarship]**
 - 本科生国家奖学金(2020)
-- <strong><span style="color:#8B0000;">南京大学栋梁特等奖学金(2025,全校22人,其中本科生13人,研究生9人)</span></strong>
+- [<strong><span style="color:#8B0000;">南京大学栋梁特等奖学金(2025,全校22人,其中本科生13人,研究生9人)</span></strong>](https://mp.weixin.qq.com/s/G4IKI0e3CPJoDudP-3B2qA)
 - 南京大学栋梁优秀奖学金——自主创业奖(2024)
 - 南京大学-中国光谷奖学金(2023)
 - 南京大学研究生英才一等奖学金(2022)
