@@ -29,7 +29,7 @@ My research mainly focuses on blockchain, spanning the fields of **Information S
 
 **B. Blockchain Open-Source Software**: 
 
-- Methodologies: **Quantitative and Qualitative analysis - Software Engineering, Predictive Modeling** 
+- Methodologies: **Quantitative and Qualitative analysis - Software Engineering, Predictive Modeling (e.g., Bass Diffusion Model, Survival Analysis)** 
 
 - Research Question: To analyze blockchain open-source ecosystems related to core contributor role evolution, community governance, and competitive diffusion.
 
