@@ -97,17 +97,19 @@ My research mainly focuses on blockchain, spanning the fields of **Information S
 
 # 📝 Working Papers 
 
-- AI for Web3 Business Ecosystems: A Conceptual Framework. Li Zhu, Jiaxin Wang(共同通讯)*, Ya Liu, Qian'ang Mao, Jiaqi Yan*. **Under the 1st Review of International Journal of Information Management (JCR Q1, 中科院一区Top)**
+- AI for Web3 Business Ecosystems: A Conceptual Framework. Li Zhu, Jiaxin Wang(共同通讯)*, Ya Liu, Qian'ang Mao, Jiaqi Yan*. **Under the 2rd Review of International Journal of Information Management (JCR Q1, 中科院一区Top)**
 
-- The Adoption and Competition of Blockchain Open-source Software: Evidence from the Diffusion of Developers. **Jiaxin Wang**, Zhengrui Jiang, Jiaqi Yan.
+- The Adoption and Competition of Blockchain Open-source Software: Evidence from the Diffusion of Developers. **Jiaxin Wang**, Zhengrui Jiang, Jiaqi Yan. **Submitting to Management Science (UTD-24)**
 
-- Understanding the Motivations and Roles of Developers in Blockchain Open-source Software. **Jiaxin Wang**.
+- SoK: Web3 Regulatory Technology for Cryptocurrency VASP AML/CFT Compliance. Qian’ang Mao, Jiaxin Wang, Ya Liu, Li Zhu, Jiaman Chen, Jiaqi Yan. **Submitting to Blockchain: Research and Applications (CCF-B, JCR Q1, 中科院二区)**
 
-- Sok: Blockchain Forks. **Jiaxin Wang**.
+<!-- Understanding the Motivations and Roles of Developers in Blockchain Open-source Software. **Jiaxin Wang**.-->
 
-- An Empirical Study of Bitcoin Forks: A Multi-Stakeholder Perspective. **Jiaxin Wang**.
+<!-- Sok: Blockchain Forks. **Jiaxin Wang**.-->
 
-- Boundary-spanning Identities in Blockchain Innovation Domains. **Jiaxin Wang**.
+<!-- An Empirical Study of Bitcoin Forks: A Multi-Stakeholder Perspective. **Jiaxin Wang**.-->
+
+<!-- Boundary-spanning Identities in Blockchain Innovation Domains. **Jiaxin Wang**.-->
 
 <!-- [Decoding TRON: A Comprehensive Framework for Large-Scale Blockchain Data Extraction and Exploration.](https://arxiv.org/abs/2509.16292). Qian'ang Mao, Jiaxin Wang, Zhiqi Feng, Yi Zhang, Jiaqi Yan. -->
 
