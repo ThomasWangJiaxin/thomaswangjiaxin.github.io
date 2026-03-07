@@ -144,11 +144,11 @@ My research mainly focuses on blockchain, spanning the fields of **Information S
 - 基于多视角的金融交易意图识别方法及电子设备[P] (申请号: 2026101966110). 颜嘉麒;毛谦昂;**王佳鑫**;柳亚;朱莉;张祎.
 [*Translation: Multi-View-Based Financial Transaction Intention Recognition Method and Electronic Device. Jiaqi Yan, Qian’ang Mao, **Jiaxin Wang**, Ya Liu, Li Zhu, Yi Zhang.*]
 
-- 基于流程挖掘的黑灰产交易分析方法和电子设备[P] (申请号: 2025115958134). 颜嘉麒;张祎;王玺罡;**王佳鑫**,蔡都. 已授权2025-11-10. [*Translation: Process-Mining-Based Analysis Method and Electronic Device for Black and Gray Market Transactions. Jiaqi Yan, Yi Zhang, Xigang Wang, **Jiaxin Wang**, Du Cai.*]
+- 基于流程挖掘的黑灰产交易分析方法和电子设备[P] (申请号: 2025115958134). 颜嘉麒;张祎;王玺罡;**王佳鑫**,蔡都. 2025-11-10. [*Translation: Process-Mining-Based Analysis Method and Electronic Device for Black and Gray Market Transactions. Jiaqi Yan, Yi Zhang, Xigang Wang, **Jiaxin Wang**, Du Cai.*]
 
 - 基于用户使用意图感知的推荐方法和电子设备[P] (No. CN120492740B). 颜嘉麒;柳亚;朱莉;**王佳鑫**;毛谦昂;胡广伟. 已授权2025-09-09. [*Translation: Recommendation Method and Electronic Device Based on User Usage Intention Perception. Jiaqi Yan, Ya Liu, Li Zhu, **Jiaxin Wang**, Qian’ang Mao, Guangwei Hu. China Patent No. CN120492740B. Published September 9, 2025.*]
 
-- 基于超图的引文推荐方法及电子设备[P] (No. CN120524006A). 颜嘉麒;柳亚;朱莉;**王佳鑫**;毛谦昂;胡广伟. 2025-09-26. [*Translation: Citation Recommendation Method and Electronic Device Based on Hypergraph. Jiaqi Yan, Ya Liu, Li Zhu, **Jiaxin Wang**, Qian’ang Mao, Guangwei Hu. China Patent No. CN120524006A. Published September 26, 2025.*]
+- 基于超图的引文推荐方法及电子设备[P] (No. CN120524006A). 颜嘉麒;柳亚;朱莉;**王佳鑫**;毛谦昂;胡广伟. 已授权2025-09-26. [*Translation: Citation Recommendation Method and Electronic Device Based on Hypergraph. Jiaqi Yan, Ya Liu, Li Zhu, **Jiaxin Wang**, Qian’ang Mao, Guangwei Hu. China Patent No. CN120524006A. Published September 26, 2025.*]
 
 
 # 💬 Teaching Assistant
