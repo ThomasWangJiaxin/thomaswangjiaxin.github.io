@@ -101,7 +101,7 @@ My research mainly focuses on blockchain, spanning the fields of **Information S
 
 - The Adoption and Competition of Blockchain Open-source Software: Evidence from the Diffusion of Developers. **Jiaxin Wang**, Zhengrui Jiang, Jiaqi Yan. **Submitting to Management Science (UTD-24)**
 
-- SoK: Web3 Regulatory Technology for Cryptocurrency VASP AML/CFT Compliance. Qian’ang Mao, Jiaxin Wang, Ya Liu, Li Zhu, Jiaman Chen, Jiaqi Yan. **Submitting to Blockchain: Research and Applications (CCF-B, JCR Q1, 中科院二区)**
+- SoK: Web3 Regulatory Technology for Cryptocurrency VASP AML/CFT Compliance. Qian’ang Mao, Jiaxin Wang, Ya Liu, Li Zhu, Jiaman Chen, Jiaqi Yan. **Under the 1st Review of Blockchain: Research and Applications (CCF-B, JCR Q1, 中科院二区)**
 
 <!-- Understanding the Motivations and Roles of Developers in Blockchain Open-source Software. **Jiaxin Wang**.-->
 
@@ -134,11 +134,11 @@ My research mainly focuses on blockchain, spanning the fields of **Information S
 - 参与一项国家自然科学基金面上项目——恐怖主义数字货币融资交易实体角色识别与知识图谱分析方法研究 (No. 72171115, 2021-2025). [*Translation: Participant in National Natural Science Foundation of China (NSFC) General Program: "Entity Identification, Role Analysis, and Knowledge Graph for Anti-Terrorism Financing in Cryptocurrency Transactions" (No. 72171115, 2021–2025)*]
 
 # 💬 Patents
-- 一种区块链交易地址角色识别方法及设备[P] (申请号: 2026100647141). 颜嘉麒;**王佳鑫**;毛谦昂;柳亚;朱莉;张祎.
-[*Translation: Method and Device for Role Identification of Blockchain Transaction Addresses. Jiaqi Yan, **Jiaxin Wang**, Qian’ang Mao, Ya Liu, Li Zhu, Yi Zhang.*]
+- 一种区块链交易地址角色识别方法及设备[P] (No. CN). 颜嘉麒;**王佳鑫**;毛谦昂;柳亚;朱莉;张祎. 已授权2026-04-04. 
+[*Translation: Method and Device for Role Identification of Blockchain Transaction Addresses. Jiaqi Yan, **Jiaxin Wang**, Qian’ang Mao, Ya Liu, Li Zhu, Yi Zhang. Published. Published. April 4, 2026*]
 
-- 基于多阶段启发式的区块链地址实体识别方法及设备[P] (申请号: 2026100827337). 颜嘉麒;**王佳鑫**;毛谦昂;柳亚;朱莉;张祎.
-[*Translation: Method and Device for Blockchain Address Entity Recognition Based on Multi-Stage Heuristics. Jiaqi Yan, **Jiaxin Wang**, Qian’ang Mao, Ya Liu, Li Zhu, Yi Zhang.*]
+- 基于多阶段启发式的区块链地址实体识别方法及设备[P] (No. CN). 颜嘉麒;**王佳鑫**;毛谦昂;柳亚;朱莉;张祎. 已授权2026-03-31. 
+[*Translation: Method and Device for Blockchain Address Entity Recognition Based on Multi-Stage Heuristics. Jiaqi Yan, **Jiaxin Wang**, Qian’ang Mao, Ya Liu, Li Zhu, Yi Zhang. Published. March 31, 2026*]
 
 - 基于波场区块链的高性能数据提取方法[P] (申请号: 202610173722X). 颜嘉麒;毛谦昂;**王佳鑫**;张祎;柳亚;朱莉.
 [*Translation: High-Performance Data Extraction Method Based on the TRON Blockchain. Jiaqi Yan, Qian’ang Mao, **Jiaxin Wang**, Yi Zhang, Ya Liu, Li Zhu.*]
