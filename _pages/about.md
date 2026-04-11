@@ -19,7 +19,7 @@ redirect_from:
 
 Jiaxin Wang is a Ph.D. candidate in Information Resource Management at Nanjing University. He holds a Bachelor of Management degree in Information Management and Information Systems from Donghua University.
 
-My research mainly focuses on blockchain, spanning the fields of **Information Systems (IS), Software Engineering (SE), Computer Science (CS), and Philosophy/Ethics of Technology**. Specifically, my work centers on the following four directions:
+My research mainly focuses on blockchain, spanning the fields of **Information Systems (IS), Software Engineering (SE), Computer Science (CS), and Technology Philosophy/Ethics (TPE)**. Specifically, my work centers on the following four directions:
 
 **A. Blockchain Regulation**: 
 
