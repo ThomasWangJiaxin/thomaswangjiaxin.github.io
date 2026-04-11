@@ -97,9 +97,11 @@ My research mainly focuses on blockchain, spanning the fields of **Information S
 
 # 📝 Working Papers 
 
-- AI for Web3 Business Ecosystems: A Conceptual Framework. Li Zhu, Jiaxin Wang(共同通讯)*, Ya Liu, Qian'ang Mao, Jiaqi Yan*. **Under the 2rd Review of International Journal of Information Management (JCR Q1, 中科院一区Top)**
-
 - The Adoption and Competition of Blockchain Open-source Software: Evidence from the Diffusion of Developers. **Jiaxin Wang**, Zhengrui Jiang, Jiaqi Yan. **Submitting to Management Science (UTD-24)**
+
+- Control without Controllers? Reconceptualizing Information Asymmetry in Decentralized Systems. **Jiaxin Wang**. **Under the 1st Review of Ethics and Information Technology (JCR Q1, 中科院一区Top)**
+
+- AI for Web3 Business Ecosystems: A Conceptual Framework. Li Zhu, Jiaxin Wang(共同通讯)*, Ya Liu, Qian'ang Mao, Jiaqi Yan*. **Under the 2rd Review of International Journal of Information Management (JCR Q1, 中科院一区Top)**
 
 - SoK: Web3 Regulatory Technology for Cryptocurrency VASP AML/CFT Compliance. Qian’ang Mao, Jiaxin Wang, Ya Liu, Li Zhu, Jiaman Chen, Jiaqi Yan. **Under the 1st Review of Blockchain: Research and Applications (CCF-B, JCR Q1, 中科院二区)**
 
@@ -134,11 +136,11 @@ My research mainly focuses on blockchain, spanning the fields of **Information S
 - 参与一项国家自然科学基金面上项目——恐怖主义数字货币融资交易实体角色识别与知识图谱分析方法研究 (No. 72171115, 2021-2025). [*Translation: Participant in National Natural Science Foundation of China (NSFC) General Program: "Entity Identification, Role Analysis, and Knowledge Graph for Anti-Terrorism Financing in Cryptocurrency Transactions" (No. 72171115, 2021–2025)*]
 
 # 💬 Patents
-- 一种区块链交易地址角色识别方法及设备[P] (No. CN). 颜嘉麒;**王佳鑫**;毛谦昂;柳亚;朱莉;张祎. 已授权2026-04-04. 
-[*Translation: Method and Device for Role Identification of Blockchain Transaction Addresses. Jiaqi Yan, **Jiaxin Wang**, Qian’ang Mao, Ya Liu, Li Zhu, Yi Zhang. Published. Published. April 4, 2026*]
+- 一种区块链交易地址角色识别方法及设备[P] (授权号: No. CN121544388B). 颜嘉麒;**王佳鑫**;毛谦昂;柳亚;朱莉;张祎. 已授权2026-04-07. 
+[*Translation: Method and Device for Role Identification of Blockchain Transaction Addresses. Jiaqi Yan, **Jiaxin Wang**, Qian’ang Mao, Ya Liu, Li Zhu, Yi Zhang. China Patent No. CN121544388B. Published. April 7, 2026*]
 
-- 基于多阶段启发式的区块链地址实体识别方法及设备[P] (No. CN). 颜嘉麒;**王佳鑫**;毛谦昂;柳亚;朱莉;张祎. 已授权2026-03-31. 
-[*Translation: Method and Device for Blockchain Address Entity Recognition Based on Multi-Stage Heuristics. Jiaqi Yan, **Jiaxin Wang**, Qian’ang Mao, Ya Liu, Li Zhu, Yi Zhang. Published. March 31, 2026*]
+- 基于多阶段启发式的区块链地址实体识别方法及设备[P] (授权号: CN121542784B). 颜嘉麒;**王佳鑫**;毛谦昂;柳亚;朱莉;张祎. 已授权2026-03-31. 
+[*Translation: Method and Device for Blockchain Address Entity Recognition Based on Multi-Stage Heuristics. Jiaqi Yan, **Jiaxin Wang**, Qian’ang Mao, Ya Liu, Li Zhu, Yi Zhang. China Patent No. CN121542784B. Published. March 31, 2026*]
 
 - 基于波场区块链的高性能数据提取方法[P] (申请号: 202610173722X). 颜嘉麒;毛谦昂;**王佳鑫**;张祎;柳亚;朱莉.
 [*Translation: High-Performance Data Extraction Method Based on the TRON Blockchain. Jiaqi Yan, Qian’ang Mao, **Jiaxin Wang**, Yi Zhang, Ya Liu, Li Zhu.*]
@@ -148,9 +150,9 @@ My research mainly focuses on blockchain, spanning the fields of **Information S
 
 - 基于流程挖掘的黑灰产交易分析方法和电子设备[P] (申请号: 2025115958134). 颜嘉麒;张祎;王玺罡;**王佳鑫**,蔡都. 2025-11-10. [*Translation: Process-Mining-Based Analysis Method and Electronic Device for Black and Gray Market Transactions. Jiaqi Yan, Yi Zhang, Xigang Wang, **Jiaxin Wang**, Du Cai.*]
 
-- 基于用户使用意图感知的推荐方法和电子设备[P] (No. CN120492740B). 颜嘉麒;柳亚;朱莉;**王佳鑫**;毛谦昂;胡广伟. 已授权2025-09-09. [*Translation: Recommendation Method and Electronic Device Based on User Usage Intention Perception. Jiaqi Yan, Ya Liu, Li Zhu, **Jiaxin Wang**, Qian’ang Mao, Guangwei Hu. China Patent No. CN120492740B. Published September 9, 2025.*]
+- 基于用户使用意图感知的推荐方法和电子设备[P] (授权号: CN120492740B). 颜嘉麒;柳亚;朱莉;**王佳鑫**;毛谦昂;胡广伟. 已授权2025-09-09. [*Translation: Recommendation Method and Electronic Device Based on User Usage Intention Perception. Jiaqi Yan, Ya Liu, Li Zhu, **Jiaxin Wang**, Qian’ang Mao, Guangwei Hu. China Patent No. CN120492740B. Published September 9, 2025.*]
 
-- 基于超图的引文推荐方法及电子设备[P] (No. CN120524006A). 颜嘉麒;柳亚;朱莉;**王佳鑫**;毛谦昂;胡广伟. 已授权2025-09-26. [*Translation: Citation Recommendation Method and Electronic Device Based on Hypergraph. Jiaqi Yan, Ya Liu, Li Zhu, **Jiaxin Wang**, Qian’ang Mao, Guangwei Hu. China Patent No. CN120524006A. Published September 26, 2025.*]
+- 基于超图的引文推荐方法及电子设备[P] (授权号: CN120524006A). 颜嘉麒;柳亚;朱莉;**王佳鑫**;毛谦昂;胡广伟. 已授权2025-09-26. [*Translation: Citation Recommendation Method and Electronic Device Based on Hypergraph. Jiaqi Yan, Ya Liu, Li Zhu, **Jiaxin Wang**, Qian’ang Mao, Guangwei Hu. China Patent No. CN120524006A. Published September 26, 2025.*]
 
 
 # 💬 Teaching Assistant
