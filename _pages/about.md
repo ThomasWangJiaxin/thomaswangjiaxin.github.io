@@ -19,7 +19,7 @@ redirect_from:
 
 Jiaxin Wang is a Ph.D. candidate in Information Resource Management at Nanjing University. He holds a Bachelor of Management degree in Information Management and Information Systems from Donghua University.
 
-My research mainly focuses on blockchain, spanning the fields of **Information Systems (IS), Software Engineering (SE), and Computer Science (CS)**. Specifically, my work centers on the following three directions:
+My research mainly focuses on blockchain, spanning the fields of **Information Systems (IS), Software Engineering (SE), Computer Science (CS), and Philosophy/Ethics of Technology**. Specifically, my work centers on the following four directions:
 
 **A. Blockchain Regulation**: 
 
@@ -38,6 +38,12 @@ My research mainly focuses on blockchain, spanning the fields of **Information S
 - Methodologies: **Quantitative and Qualitative analysis - Bibliometrics, Topic Modeling**
 
 - Research Question: To review the current status and future trends of blockchain's integration with other frontier technologies, including Federated Learning and AI.
+
+**D. Blockchain Ethics**: 
+
+- Methodologies: **Qualitative analysis — Conceptual analysis, Normative argumentation, Case-based reasoning**
+
+- Research Question: To examine the ethical implications of blockchain-based systems, including questions of transparency, informational fairness, epistemic justice, and governance accountability across decentralized ecosystems.
 
 <!-- I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=Vm54jdoAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=Vm54jdoAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
@@ -101,7 +107,7 @@ My research mainly focuses on blockchain, spanning the fields of **Information S
 
 - Control without Controllers? Reconceptualizing Information Asymmetry in Decentralized Systems. **Jiaxin Wang**. **Under the 1st Review of Ethics and Information Technology (JCR Q1, 中科院一区Top)**
 
-- AI for Web3 Business Ecosystems: A Conceptual Framework. Li Zhu, Jiaxin Wang(共同通讯)*, Ya Liu, Qian'ang Mao, Jiaqi Yan*. **Under the 2rd Review of International Journal of Information Management (JCR Q1, 中科院一区Top)**
+- AI for Web3 Business Ecosystems: A Conceptual Framework. Li Zhu, **Jiaxin Wang**(共同通讯), Ya Liu, Qian'ang Mao, Jiaqi Yan. **Under the 2rd Review of International Journal of Information Management (JCR Q1, 中科院一区Top)**
 
 - SoK: Web3 Regulatory Technology for Cryptocurrency VASP AML/CFT Compliance. Qian’ang Mao, Jiaxin Wang, Ya Liu, Li Zhu, Jiaman Chen, Jiaqi Yan. **Under the 1st Review of Blockchain: Research and Applications (CCF-B, JCR Q1, 中科院二区)**
 
