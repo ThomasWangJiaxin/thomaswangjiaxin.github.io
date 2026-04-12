@@ -35,7 +35,7 @@ My research mainly focuses on blockchain, spanning the fields of **Information S
 
 **C. Blockchain Technology Trends**: 
 
-- Methodologies: **Quantitative and Qualitative analysis - Bibliometrics, Topic Modeling**
+- Methodologies: **Quantitative and Qualitative analysis - Bibliometrics, Topic Modeling, Meta-analysis**
 
 - Research Question: To review the current status and future trends of blockchain's integration with other frontier technologies, including Federated Learning and AI.
 
