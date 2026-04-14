@@ -19,13 +19,13 @@ redirect_from:
 
 Jiaxin Wang is a Ph.D. candidate in Information Resource Management at Nanjing University. He holds a Bachelor of Management degree in Information Management and Information Systems from Donghua University.
 
-My research mainly focuses on blockchain, spanning the fields of **Information Systems (IS), Software Engineering (SE), Computer Science (CS), and Technology Philosophy/Ethics (TPE)**. Specifically, my work centers on the following four directions:
+My research mainly focuses on decentralized ecosystems, spanning the fields of **Information Systems (IS), Software Engineering (SE), Computer Science (CS), and Technology Philosophy/Ethics (TPE)**. Specifically, my work centers on the following three directions:
 
-**A. Blockchain Regulation**: 
+**A. Cryptocurrency Regulation**: 
 
 - Methodology: **Computational Design Science**
 
-- Research Question: To identify and track anomalous transactions and entity roles within cryptocurrency transaction data. This research addresses critical regulatory challenges such as anonymity and security in the crypto economy, with applications across various scenarios, including crypto casinos, the metaverse, blockchain gaming, and cryptocurrency terrorism financing.
+- Research Question: To identify and track anomalous transactions and entity roles within cryptocurrency transaction data. This research addresses critical regulatory challenges such as anonymity and security in the crypto economy, with applications across various scenarios, including crypto casinos, the metaverse, crypto gaming, and cryptocurrency terrorism financing.
 
 **B. Blockchain Open-Source Software**: 
 
@@ -33,17 +33,19 @@ My research mainly focuses on blockchain, spanning the fields of **Information S
 
 - Research Question: To analyze blockchain open-source ecosystems related to core contributor role evolution, community governance, and competitive diffusion.
 
-**C. Blockchain Technology Trends**: 
-
-- Methodologies: **Quantitative and Qualitative analysis - Bibliometrics, Topic Modeling, Meta-analysis**
-
-- Research Question: To review the current status and future trends of blockchain's integration with other frontier technologies, including Federated Learning and AI.
-
-**D. Blockchain Ethics**: 
+**C. Technology Ethics of Decentralized Systems**: 
 
 - Methodologies: **Qualitative analysis — Conceptual analysis, Normative argumentation, Case-based reasoning**
 
 - Research Question: To examine the ethical implications of blockchain-based systems, including questions of transparency, informational fairness, epistemic justice, and governance accountability across decentralized ecosystems.
+
+<!--
+**D. Blockchain Technology Trends**: 
+
+- Methodologies: **Quantitative and Qualitative analysis - Bibliometrics, Topic Modeling, Meta-analysis**
+
+- Research Question: To review the current status and future trends of blockchain's integration with other frontier technologies, including Federated Learning and AI.
+-->
 
 <!-- I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=Vm54jdoAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=Vm54jdoAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
