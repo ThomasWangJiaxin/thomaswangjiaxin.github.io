@@ -33,7 +33,7 @@ My research mainly focuses on decentralized ecosystems, spanning the fields of *
 
 - Research Question: To analyze blockchain open-source ecosystems related to core contributor role evolution, community governance, and competitive diffusion.
 
-**C. Technology Ethics of Decentralized Systems**: 
+**C. Ethics of Decentralized Systems**: 
 
 - Methodologies: **Qualitative analysis — Conceptual analysis, Normative argumentation, Case-based reasoning**
 
