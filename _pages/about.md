@@ -19,7 +19,7 @@ redirect_from:
 
 Jiaxin Wang is a Ph.D. candidate in Information Resource Management at Nanjing University. He holds a Bachelor of Management degree in Information Management and Information Systems from Donghua University.
 
-My research mainly focuses on decentralized ecosystems, spanning the fields of **Information Systems (IS), Software Engineering (SE), Computer Science (CS), and Technology Philosophy/Ethics (TPE)**. Specifically, my work centers on the following three directions:
+My research mainly focuses on the fields of **Information Systems (IS), Software Engineering (SE), Computer Science (CS)**. Specifically, my work centers on the following two directions:
 
 **A. Cryptocurrency Regulation**: 
 
@@ -27,17 +27,19 @@ My research mainly focuses on decentralized ecosystems, spanning the fields of *
 
 - Research Question: To identify and track anomalous transactions and entity roles within cryptocurrency transaction data. This research addresses critical regulatory challenges such as anonymity and security in the crypto economy, with applications across various scenarios, including crypto casinos, the metaverse, crypto gaming, and cryptocurrency terrorism financing.
 
-**B. Blockchain Open-Source Software**: 
+**B. Open-Source Software**: 
 
 - Methodologies: **Quantitative and Qualitative analysis - Software Engineering, Predictive Modeling (e.g., Bass Diffusion Model, Survival Analysis)** 
 
 - Research Question: To analyze blockchain open-source ecosystems related to core contributor role evolution, community governance, and competitive diffusion.
 
+<!--
 **C. Ethics of Decentralized Systems**: 
 
 - Methodologies: **Qualitative analysis — Conceptual analysis, Normative argumentation, Case-based reasoning**
 
 - Research Question: To examine the ethical implications of blockchain-based systems, including questions of transparency, informational fairness, epistemic justice, and governance accountability across decentralized ecosystems.
+-->
 
 <!--
 **D. Blockchain Technology Trends**: 
