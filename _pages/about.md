@@ -152,11 +152,13 @@ My research mainly focuses on the fields of **Information Systems (IS), Software
 - 基于多阶段启发式的区块链地址实体识别方法及设备[P] (授权号: CN121542784B). 颜嘉麒;**王佳鑫**;毛谦昂;柳亚;朱莉;张祎. 已授权2026-03-31. 
 [*Translation: Method and Device for Blockchain Address Entity Recognition Based on Multi-Stage Heuristics. Jiaqi Yan, **Jiaxin Wang**, Qian’ang Mao, Ya Liu, Li Zhu, Yi Zhang. China Patent No. CN121542784B. Published. March 31, 2026*]
 
+<!--
 - 基于波场区块链的高性能数据提取方法[P] (申请号: 202610173722X). 颜嘉麒;毛谦昂;**王佳鑫**;张祎;柳亚;朱莉.
 [*Translation: High-Performance Data Extraction Method Based on the TRON Blockchain. Jiaqi Yan, Qian’ang Mao, **Jiaxin Wang**, Yi Zhang, Ya Liu, Li Zhu.*]
 
 - 基于多视角的金融交易意图识别方法及电子设备[P] (申请号: 2026101966110). 颜嘉麒;毛谦昂;**王佳鑫**;柳亚;朱莉;张祎.
 [*Translation: Multi-View-Based Financial Transaction Intention Recognition Method and Electronic Device. Jiaqi Yan, Qian’ang Mao, **Jiaxin Wang**, Ya Liu, Li Zhu, Yi Zhang.*]
+-->
 
 - 基于流程挖掘的黑灰产交易分析方法和电子设备[P] (申请号: 2025115958134). 颜嘉麒;张祎;王玺罡;**王佳鑫**,蔡都. 2025-11-10. [*Translation: Process-Mining-Based Analysis Method and Electronic Device for Black and Gray Market Transactions. Jiaqi Yan, Yi Zhang, Xigang Wang, **Jiaxin Wang**, Du Cai.*]
 
