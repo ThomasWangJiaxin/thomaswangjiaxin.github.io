@@ -107,13 +107,13 @@ My research mainly focuses on the fields of **Information Systems (IS), Software
 
 # 📝 Working Papers 
 
-- The Adoption and Competition of Blockchain Open-source Software: Evidence from the Diffusion of Developers. **Jiaxin Wang**, Zhengrui Jiang, Jiaqi Yan. **Submitting to Management Science (UTD-24)**
+- The Adoption and Competition of Blockchain Open-source Software: Evidence from the Diffusion of Developers. **Jiaxin Wang**, Zhengrui Jiang, Jiaqi Yan. **Submitted to Management Science (UTD-24)**
 
 - Control without Controllers? Reconceptualizing Information Asymmetry in Decentralized Systems. **Jiaxin Wang**. **Under the 1st Review of Ethics and Information Technology (JCR Q1, 中科院一区Top)**
 
-- AI for Web3 Business Ecosystems: A Conceptual Framework. Li Zhu, **Jiaxin Wang**(共同通讯), Ya Liu, Qian'ang Mao, Jiaqi Yan. **Under the 2rd Review of International Journal of Information Management (JCR Q1, 中科院一区Top)**
+- AI for Web3 Business Ecosystems: A Conceptual Framework. Li Zhu, **Jiaxin Wang**(共同通讯), Ya Liu, Qian'ang Mao, Jiaqi Yan. **After the 2rd Review of International Journal of Information Management (JCR Q1, 中科院一区Top)**
 
-- SoK: Web3 Regulatory Technology for Cryptocurrency VASP AML/CFT Compliance. Qian’ang Mao, Jiaxin Wang, Ya Liu, Li Zhu, Jiaman Chen, Jiaqi Yan. **Under the 1st Review of Blockchain: Research and Applications (CCF-B, JCR Q1, 中科院二区)**
+- SoK: Web3 Regulatory Technology for Cryptocurrency VASP AML/CFT Compliance. Qian’ang Mao, Jiaxin Wang, Ya Liu, Li Zhu, Jiaman Chen, Jiaqi Yan. **After the 1st Review of Blockchain: Research and Applications (CCF-B, JCR Q1, 中科院二区)**
 
 <!-- Understanding the Motivations and Roles of Developers in Blockchain Open-source Software. **Jiaxin Wang**.-->
 
