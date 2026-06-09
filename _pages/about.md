@@ -107,7 +107,7 @@ My research mainly focuses on the fields of **Information Systems (IS), Software
 
 # 📝 Working Papers 
 
-- The Adoption and Competition of Blockchain Open-source Software: Evidence from the Diffusion of Developers. **Jiaxin Wang**, Zhengrui Jiang, Jiaqi Yan. **Submitted to Management Science (UTD-24)**
+- The Adoption and Competition of Blockchain Open-source Software: Evidence from the Diffusion of Developers. **Jiaxin Wang**, Zhengrui Jiang, Jiaqi Yan. **Under the 1st Review of Management Science (UTD-24)**
 
 - Control without Controllers? Reconceptualizing Information Asymmetry in Decentralized Systems. **Jiaxin Wang**. **Under the 1st Review of Ethics and Information Technology (JCR Q1, 中科院一区Top)**
 
