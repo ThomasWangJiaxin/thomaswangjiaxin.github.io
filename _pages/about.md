@@ -1,4 +1,4 @@
----
+<img width="182" height="52" alt="image" src="https://github.com/user-attachments/assets/e9119292-2b9d-426e-a57f-8ca67454908d" />---
 permalink: /
 title: ""
 excerpt: ""
@@ -29,7 +29,7 @@ My research mainly focuses on the fields of **Information Systems (IS), Software
 
 **B. Open-Source Software**: 
 
-- Methodologies: **Quantitative and Qualitative analysis - Software Engineering, Predictive Modeling (e.g., Bass Diffusion Model, Survival Analysis)** 
+- Methodologies: **Quantitative and Qualitative analysis - Predictive Modeling (Bass Diffusion Model), Econometrics (Survival Analysis) ** 
 
 - Research Question: To analyze blockchain open-source ecosystems related to core contributor role evolution, community governance, and competitive diffusion.
 
