@@ -129,7 +129,7 @@ My research mainly focuses on the fields of **Information Systems (IS), Software
 
 # 📝 Presentation 
 
-- Gamblers or Delegatees: Identifying Hidden Participant Roles in Crypto Casinos [*Oral Presentation*]. **Jiaxin Wang**, Qian'ang Mao, Hongliang Sun, Jiaqi Yan. **[CSIAM 2026区块链与金融科技算法联合学术年会](https://m.csiam.org.cn/1005/202604/2720.html) (<strong><span style="color:#8B0000;">高质量博士（后）论文一等奖</span></strong>)**
+- Gamblers or Delegatees: Identifying Hidden Participant Roles in Crypto Casinos [*Oral Presentation*]. **Jiaxin Wang**, Qian'ang Mao, Hongliang Sun, Jiaqi Yan. **[中国工业与应用数学学会2026年区块链与金融科技算法联合学术年会](https://m.csiam.org.cn/1005/202604/2720.html) (<strong><span style="color:#8B0000;">高质量博士（后）论文一等奖</span></strong>)**
 
 - Smoke and mirrors: Uncovering hidden delegatees within crypto gambling ecosystems [*Oral Presentation*]. **Jiaxin Wang**, Qian'ang Mao, Hongliang Sun, Jiaqi Yan. **[The 9th International Conference on Smart Finance](https://cbit.cuhk.edu.cn/ICSF/ICSF24/index.html) (ICSF2024, <strong><span style="color:#8B0000;">Best Paper in NFT & Blockchain Track</span></strong>)**
 
