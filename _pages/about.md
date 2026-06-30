@@ -29,25 +29,24 @@ My research mainly focuses on the fields of **Information Systems (IS), Software
 
 **B. Open-Source Software**: 
 
-- Methodologies: **Quantitative and Qualitative analysis - Predictive Modeling (Bass Diffusion Model), Econometrics (Survival Analysis) ** 
+- Methodologies: **Quantitative and Qualitative analysis - Predictive Modeling (Bass Diffusion Model), Econometrics (Survival Analysis, DID), Software Engineering** 
 
 - Research Question: To analyze blockchain open-source ecosystems related to core contributor role evolution, community governance, and competitive diffusion.
 
-<!--
+
 **C. Ethics of Decentralized Systems**: 
 
 - Methodologies: **Qualitative analysis — Conceptual analysis, Normative argumentation, Case-based reasoning**
 
 - Research Question: To examine the ethical implications of blockchain-based systems, including questions of transparency, informational fairness, epistemic justice, and governance accountability across decentralized ecosystems.
--->
 
-<!--
+
 **D. Blockchain Technology Trends**: 
 
-- Methodologies: **Quantitative and Qualitative analysis - Bibliometrics, Topic Modeling, Meta-analysis**
+- Methodologies: **Quantitative and Qualitative analysis - Bibliometrics, Topic Modeling/Coding**
 
 - Research Question: To review the current status and future trends of blockchain's integration with other frontier technologies, including Federated Learning and AI.
--->
+
 
 <!-- I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=Vm54jdoAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=Vm54jdoAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
@@ -130,6 +129,8 @@ My research mainly focuses on the fields of **Information Systems (IS), Software
 
 # 📝 Presentation 
 
+- Gamblers or Delegatees: Identifying Hidden Participant Roles in Crypto Casinos [*Oral Presentation*]. **Jiaxin Wang**, Qian'ang Mao, Hongliang Sun, Jiaqi Yan. **[CSIAM 2026区块链与金融科技算法联合学术年会](https://m.csiam.org.cn/1005/202604/2720.html) (<strong><span style="color:#8B0000;">高质量博士（后）论文一等奖</span></strong>)**
+
 - Smoke and mirrors: Uncovering hidden delegatees within crypto gambling ecosystems [*Oral Presentation*]. **Jiaxin Wang**, Qian'ang Mao, Hongliang Sun, Jiaqi Yan. **[The 9th International Conference on Smart Finance](https://cbit.cuhk.edu.cn/ICSF/ICSF24/index.html) (ICSF2024, <strong><span style="color:#8B0000;">Best Paper in NFT & Blockchain Track</span></strong>)**
 
 - Demystifying Underground Crypto Financing in International Conflicts: Identification of Key Roles and Transactions with Graph Neural Networks [*Oral Presentation*]. Qian'ang Mao, **Jiaxin Wang**, Jiaqi Yan et al. **[The 9th International Conference on Smart Finance](https://cbit.cuhk.edu.cn/ICSF/ICSF24/index.html) (ICSF2024, <strong><span style="color:#8B0000;">Best Paper in Fintech & Stock Market Track</span></strong>)**
@@ -176,7 +177,7 @@ My research mainly focuses on the fields of **Information Systems (IS), Software
 
 # 💬 Services
 - [Journal Reviews:《IEEE Transactions on Engineering Management》(ABS3, JCR Q1)《Journal of Intellectual Capital》(JCR Q1),《IET Blockchain》(EI) Reviewer](https://orcid.org/0000-0002-8432-7902)
-- Conference Reviews: ICIS2025, PACIS2024/2025, HICSS-58/59; WWW2024, WWW2025, KDD2024, AAAI2026
+- Conference Reviews: ICIS2025, PACIS2024/2025, HICSS-58/59/60; WWW2024, WWW2025, KDD2024, AAAI2026, AAAI2027
 - [Association of Information Systems (AIS) Doctoral Student College Volunteers - Region 3 Coordinator](https://communities.aisnet.org/doctoralstudentcollege/get-involved)
 
 # 💻 Internships
