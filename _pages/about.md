@@ -81,7 +81,7 @@ My research mainly focuses on the fields of **Information Systems (IS), Software
 
 - [Smoke and mirrors: Uncovering hidden delegatees within crypto gambling ecosystems](https://scholarspace.manoa.hawaii.edu/items/f01d09b1-10f5-4e4f-b72c-431709ab9320)[C]. **Jiaxin Wang**, Qian'ang Mao, Hongliang Sun, Jiaqi Yan, Yani Shi. **Proceedings of the 58th Hawaii International Conference on System Sciences (HICSS-58, <strong><span style="color:#8B0000;">Best Paper Nomination</span></strong>)**.
 
-- [Quantifying the Hydra Effect: Measuring the Resilience of Darknet-Market Cryptocurrency Network through Role-Invariant Graph Learning][C]. Qian'ang Mao, **Jiaxin Wang**, Jiaqi Yan. **Accepted by International Conference on Information Systems (ICIS 2026)**.
+- Quantifying the Hydra Effect: Measuring the Resilience of Darknet-Market Cryptocurrency Network through Role-Invariant Graph Learning[C]. Qian'ang Mao, **Jiaxin Wang**, Jiaqi Yan. **Conditionally Accepted by International Conference on Information Systems (ICIS 2026)**.
 
 - [Targeting the Achilles’ Heel: A GNN Framework for Dismantling Cryptocurrency War-Financing Networks](https://aisel.aisnet.org/icis2024/blockchain/blockchain/6/)[C]. Qian'ang Mao, **Jiaxin Wang**, Jiaqi Yan et al. **International Conference on Information Systems(ICIS 2024, <strong><span style="color:#8B0000;">Best Paper Nomination & Best Paper in Track</span></strong>)**.
 
@@ -131,7 +131,7 @@ My research mainly focuses on the fields of **Information Systems (IS), Software
 
 # 📝 Presentation 
 
-- Developer Participation, Diffusion, and Governance in Blockchain Open-Source Software [*Oral Presentation*]. **Jiaxin Wang**. **Pacific Asia Conference on Information Systems (PACIS 2026) Doctor Consortium; International Conference on Electronic Business (ICEB 2026) Doctor Consortium; CNAIS-UNNC-2026 Workshop**.
+- Developer Participation, Diffusion, and Governance in Blockchain Open-Source Software [*Oral Presentation*]. **Jiaxin Wang**. **Pacific Asia Conference on Information Systems (PACIS 2026) Doctor Consortium; International Conference on Electronic Business (ICEB 2026) Doctor Consortium; CNAIS-UNNC-2026 Paper Development Workshop**.
 
 
 - Gamblers or Delegatees: Identifying Hidden Participant Roles in Crypto Casinos [*Oral Presentation*]. **Jiaxin Wang**, Qian'ang Mao, Hongliang Sun, Jiaqi Yan. **[中国工业与应用数学学会2026年区块链与金融科技算法联合学术年会](https://m.csiam.org.cn/1005/202604/2720.html) (<strong><span style="color:#8B0000;">高质量博士（后）论文一等奖</span></strong>)**
