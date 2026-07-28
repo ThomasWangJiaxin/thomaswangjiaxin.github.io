@@ -81,6 +81,8 @@ My research mainly focuses on the fields of **Information Systems (IS), Software
 
 - [Smoke and mirrors: Uncovering hidden delegatees within crypto gambling ecosystems](https://scholarspace.manoa.hawaii.edu/items/f01d09b1-10f5-4e4f-b72c-431709ab9320)[C]. **Jiaxin Wang**, Qian'ang Mao, Hongliang Sun, Jiaqi Yan, Yani Shi. **Proceedings of the 58th Hawaii International Conference on System Sciences (HICSS-58, Core B, <strong><span style="color:#8B0000;">Best Paper Nomination</span></strong>)**.
 
+- [Quantifying the Hydra Effect: Measuring the Resilience of Darknet-Market Cryptocurrency Network through Role-Invariant Graph Learning][C]. Qian'ang Mao, **Jiaxin Wang**, Jiaqi Yan. **Accepted by International Conference on Information Systems (ICIS 2026)**.
+
 - [Targeting the Achilles’ Heel: A GNN Framework for Dismantling Cryptocurrency War-Financing Networks](https://aisel.aisnet.org/icis2024/blockchain/blockchain/6/)[C]. Qian'ang Mao, **Jiaxin Wang**, Jiaqi Yan et al. **International Conference on Information Systems(ICIS 2024, Core A+, <strong><span style="color:#8B0000;">Best Paper Nomination & Best Paper in Track</span></strong>)**.
 
 - [Identifying Crypto Addresses with Gambling Behaviors: A Graph Neural Network Approach](https://aisel.aisnet.org/pacis2023/210/)[C]. **Jiaxin Wang**, Qian'ang Mao, Jiaqi Yan et al. **Pacific Asia Conference on Information Systems(PACIS 2023, Core B)**, Nanchang, China.
@@ -106,15 +108,17 @@ My research mainly focuses on the fields of **Information Systems (IS), Software
 
 # 📝 Working Papers 
 
-- The Adoption and Competition of Blockchain Open-source Software: Evidence from the Diffusion of Developers. **Jiaxin Wang**, Zhengrui Jiang, Jiaqi Yan. Under the 1st Review of **Management Science (UTD-24)**
+- The Adoption and Competition of Blockchain Open-source Software: Evidence from the Diffusion of Developers. **Jiaxin Wang**, Zhengrui Jiang*, Jiaqi Yan. Under the 1st Review of **Management Science (UTD-24)**
 
-- The Fight for the On-chain War Chest: Role-Based Ecosystem Analytics for Wartime Cryptocurrency Sanctions and Fundraising. Qian'ang Mao, **Jiaxin Wang**, Jiaqi Yan. Submitted to **Journal of Management Information Systems (FT50)**
+- The Business Ethics of Decentralization for Blockchain-based Governance. **Jiaxin Wang**. Under the 1st Review of **Journal of Business Ethics (JCR Q1, 中科院一区Top)**
 
 - Control without Controllers? Reconceptualizing Information Asymmetry in Decentralized Systems. **Jiaxin Wang**. Under the 1st Review of **Ethics and Information Technology (JCR Q1, 中科院一区Top)**
 
-- AI for Web3 Business Ecosystems: A Conceptual Framework. Li Zhu, **Jiaxin Wang**(共同通讯), Ya Liu, Qian'ang Mao, Jiaqi Yan. Under the 3rd Review of **International Journal of Information Management (JCR Q1, 中科院一区Top)**
+- AI for Web3 Business Ecosystems: A Conceptual Framework. Li Zhu, **Jiaxin Wang**(共同通讯), Ya Liu, Qian'ang Mao, Jiaqi Yan. Under the 4rd Review of **International Journal of Information Management (JCR Q1, 中科院一区Top)**
 
 - SoK: Web3 Regulatory Technology for Cryptocurrency VASP AML/CFT Compliance. Qian’ang Mao, Jiaxin Wang, Ya Liu, Li Zhu, Jiaman Chen, Jiaqi Yan. Under the 2nd Review of **Blockchain: Research and Applications (CCF-B, JCR Q1, 中科院二区)**
+
+- The Fight for the On-chain War Chest: Role-Based Ecosystem Analytics for Wartime Cryptocurrency Sanctions and Fundraising. Qian'ang Mao, **Jiaxin Wang**, Jiaqi Yan.
 
 <!-- Understanding the Motivations and Roles of Developers in Blockchain Open-source Software. **Jiaxin Wang**.-->
 
@@ -123,8 +127,6 @@ My research mainly focuses on the fields of **Information Systems (IS), Software
 <!-- An Empirical Study of Bitcoin Forks: A Multi-Stakeholder Perspective. **Jiaxin Wang**.-->
 
 <!-- Boundary-spanning Identities in Blockchain Innovation Domains. **Jiaxin Wang**.-->
-
-<!-- [Decoding TRON: A Comprehensive Framework for Large-Scale Blockchain Data Extraction and Exploration.](https://arxiv.org/abs/2509.16292). Qian'ang Mao, Jiaxin Wang, Zhiqi Feng, Yi Zhang, Jiaqi Yan. -->
 
 
 # 📝 Presentation 
@@ -178,7 +180,7 @@ My research mainly focuses on the fields of **Information Systems (IS), Software
 # 💬 Services
 - [Journal Reviews:《IEEE Transactions on Engineering Management》(ABS3, JCR Q1)《Journal of Intellectual Capital》(JCR Q1),《IET Blockchain》(EI) Reviewer](https://orcid.org/0000-0002-8432-7902)
 - Conference Reviews: ICIS2025, PACIS2024/2025, HICSS-58/59/60; WWW2024, WWW2025, KDD2024, AAAI2026, AAAI2027
-- [Association of Information Systems (AIS) Doctoral Student College Volunteers - Region 3 Coordinator](https://communities.aisnet.org/doctoralstudentcollege/get-involved)
+- [Association of Information Systems (AIS) Doctoral Student College Volunteers - Region 3 Coordinator in 2025](https://communities.aisnet.org/doctoralstudentcollege/get-involved)
 
 # 💻 Internships
 - *2021.03 - 2021.05*, **Product Manager Intern**, **ByteDance (字节跳动) - Infrastructure - Cloud Native - Observability Team**, China.
