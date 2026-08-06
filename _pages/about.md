@@ -108,7 +108,7 @@ My research mainly focuses on the fields of **Information Systems (IS), Software
 
 - The Diffusion and Competition of Blockchain Open-source Software: Evidence from Developer Participation. **Jiaxin Wang**, Zhengrui Jiang*, Jiaqi Yan. Under the 1st Review of **Management Science (UTD-24, FT50, ABS 4+)**
 
-- AI for Web3 Business Ecosystems: A Conceptual Framework. Li Zhu, **Jiaxin Wang**(共同通讯), Ya Liu, Qian'ang Mao, Jiaqi Yan. Under the 4rd Review of **International Journal of Information Management (ABS2, JCR Q1, 中科院一区Top)**
+- AI for Web3 Business Ecosystems: A Conceptual Framework. Li Zhu, **Jiaxin Wang**(共同通讯), Ya Liu, Qian'ang Mao, Jiaqi Yan. Under the 4th Review of **International Journal of Information Management (ABS2, JCR Q1, 中科院一区Top)**
 
 - The Business Ethics of Decentralization for Blockchain-based Governance. **Jiaxin Wang**. Under the 1st Review of **Journal of Business Ethics (ABS 3, ex-FT50, JCR Q1, 中科院一区Top)**
 
