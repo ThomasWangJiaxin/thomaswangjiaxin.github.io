@@ -75,9 +75,9 @@ My research mainly focuses on the fields of **Information Systems (IS), Software
 </div>
 </div>
 
-- [Behind the scenes in metaverses: exploring undercover role cooperations with cryptocurrency transactions through an intellectual capital lens](https://doi.org/10.1108/JIC-03-2025-0068)[J]. **Jiaxin Wang**, Qian'ang Mao, Jiaqi Yan. **Journal of Intellectual Capital (JCR Q1, ABS 2, ABDC B)**.
+- [Behind the scenes in metaverses: exploring undercover role cooperations with cryptocurrency transactions through an intellectual capital lens](https://doi.org/10.1108/JIC-03-2025-0068)[J]. **Jiaxin Wang**, Qian'ang Mao, Jiaqi Yan. **Journal of Intellectual Capital (ABS2, JCR Q1, ABS 2, ABDC B)**.
 
-- [Architectural Patterns for Blockchain-enabled Federated Learning: A Systematic Literature Review](https://doi.org/10.1016/j.jss.2025.112695)[J]. **Jiaxin Wang**, Dongying Shi, Shanshan Li, Jiaqi Yan, et al. **Journal of Systems and Software (JCR Q1, CCF-B)**
+- [Architectural Patterns for Blockchain-enabled Federated Learning: A Systematic Literature Review](https://doi.org/10.1016/j.jss.2025.112695)[J]. **Jiaxin Wang**, Dongying Shi, Shanshan Li, Jiaqi Yan, et al. **Journal of Systems and Software (ABS2, JCR Q1, CCF-B)**
 
 - AI for Web3 Business Ecosystems: A Conceptual Framework. Li Zhu, **Jiaxin Wang (Co-corresponding Author)**, Ya Liu, Qian'ang Mao, Jiaqi Yan. Forthcoming, **International Journal of Information Management (ABS2, JCR Q1, 中科院一区Top)**
 
