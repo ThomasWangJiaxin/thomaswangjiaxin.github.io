@@ -116,7 +116,9 @@ My research mainly focuses on the fields of **Information Systems (IS), Software
 
 - SoK: Web3 Regulatory Technology for Cryptocurrency VASP AML/CFT Compliance. Qian’ang Mao, Jiaxin Wang, Ya Liu, Li Zhu, Jiaman Chen, Jiaqi Yan. Under the 2nd Review of **Blockchain: Research and Applications (CCF-B, JCR Q1, 中科院二区)**
 
-- Control without Controllers? Reconceptualizing Information Asymmetry in Decentralized Systems. **Jiaxin Wang**. Under the 1st Review of **Ethics and Information Technology (JCR Q1, 中科院一区Top)**
+- Usable Transparency in Decentralized Systems: An Ethical Framework from a Stakeholder Theory Perspective. **Jiaxin Wang**. Writing
+
+- The Dark Side of Web3: A Taxonomy of Risks in Decentralized Ecosystems. **Jiaxin Wang**. Writing
 
 - Sok: Blockchain Forks. **Jiaxin Wang**. Writing
 
