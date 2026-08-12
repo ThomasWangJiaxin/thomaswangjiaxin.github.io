@@ -79,7 +79,7 @@ My research mainly focuses on the fields of **Information Systems (IS), Software
 
 - [Architectural Patterns for Blockchain-enabled Federated Learning: A Systematic Literature Review](https://doi.org/10.1016/j.jss.2025.112695)[J]. **Jiaxin Wang**, Dongying Shi, Shanshan Li, Jiaqi Yan, et al. **Journal of Systems and Software (ABS2, JCR Q1, CCF-B)**
 
-- AI for Web3 Business Ecosystems: A Conceptual Framework. Li Zhu, **Jiaxin Wang (Co-corresponding Author)**, Ya Liu, Qian'ang Mao, Jiaqi Yan. Forthcoming, **International Journal of Information Management (ABS2, JCR Q1, 中科院一区Top)**
+- AI for Web3 Ecosystems: A Socio-technical Conceptual Framework. Li Zhu, **Jiaxin Wang (Co-corresponding Author)**, Ya Liu, Qian'ang Mao, Jiaqi Yan. Forthcoming, **International Journal of Information Management (ABS2, JCR Q1, 中科院一区Top)**
 
 - [Smoke and mirrors: Uncovering hidden delegatees within crypto gambling ecosystems](https://scholarspace.manoa.hawaii.edu/items/f01d09b1-10f5-4e4f-b72c-431709ab9320)[C]. **Jiaxin Wang**, Qian'ang Mao, Hongliang Sun, Jiaqi Yan, Yani Shi. **Proceedings of the 58th Hawaii International Conference on System Sciences (HICSS-58, <strong><span style="color:#8B0000;">Best Paper Nomination</span></strong>)**.
 
