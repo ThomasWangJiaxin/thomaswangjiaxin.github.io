@@ -110,19 +110,19 @@ My research mainly focuses on the fields of **Information Systems (IS), Software
 
 - The Diffusion and Competition of Blockchain Open-source Software: Evidence from Developer Participation. **Jiaxin Wang**, Zhengrui Jiang*, Jiaqi Yan. Under the 1st Review of **Management Science (UTD-24, FT50, ABS 4+)**
 
-- The Business Ethics of Decentralization for Blockchain-based Governance. **Jiaxin Wang**. Under the 1st Review of **Journal of Business Ethics (ABS 3, ex-FT50, JCR Q1, 中科院一区Top)**
+- The Business Ethics of Decentralization for Blockchain-based Governance. **Jiaxin Wang**. Under the 1st Review of **Journal of Business Ethics (ABS 3, ex-FT50, JCR Q1)**
 
-- Institutional Settlement in Code: Rethinking Blockchain Governance Beyond Design. **Jiaxin Wang**. Under the 1st Review of **Journal of the Association for Information Systems (ABS 4+, JCR Q1, 中科院一区Top)**
+- Institutional Settlement in Code: Rethinking Blockchain Governance Beyond Design. **Jiaxin Wang**. Preparation for **Journal of the Association for Information Systems (ABS 4+, JCR Q1)**
+
+- Usable Transparency in Decentralized Systems: An Ethical Framework from a Stakeholder Theory Perspective. **Jiaxin Wang**. Preparation for **Information, Technology & People (ABS 3, JCR Q1)**
 
 - SoK: Web3 Regulatory Technology for Cryptocurrency VASP AML/CFT Compliance. Qian’ang Mao, Jiaxin Wang, Ya Liu, Li Zhu, Jiaman Chen, Jiaqi Yan. Under the 2nd Review of **Blockchain: Research and Applications (CCF-B, JCR Q1, 中科院二区)**
 
-- Usable Transparency in Decentralized Systems: An Ethical Framework from a Stakeholder Theory Perspective. **Jiaxin Wang**. Writing
-
 - The Dark Side of Web3: A Taxonomy of Risks in Decentralized Ecosystems. **Jiaxin Wang**. Writing
 
-- Sok: Blockchain Forks. **Jiaxin Wang**. Writing
+<!-- Sok: Blockchain Forks. **Jiaxin Wang**. Writing -->
 
-- The Fight for the On-chain War Chest: Role-Based Ecosystem Analytics for Wartime Cryptocurrency Sanctions and Fundraising. Qian'ang Mao, **Jiaxin Wang**, Jiaqi Yan. Writing
+<!-- The Fight for the On-chain War Chest: Role-Based Ecosystem Analytics for Wartime Cryptocurrency Sanctions and Fundraising. Qian'ang Mao, **Jiaxin Wang**, Jiaqi Yan. Writing -->
 
 <!-- Understanding the Motivations and Roles of Developers in Blockchain Open-source Software. **Jiaxin Wang**.-->
 
