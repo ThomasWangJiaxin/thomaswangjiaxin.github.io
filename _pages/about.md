@@ -79,7 +79,7 @@ My research mainly focuses on the fields of **Information Systems (IS), Software
 
 - [Architectural Patterns for Blockchain-enabled Federated Learning: A Systematic Literature Review](https://doi.org/10.1016/j.jss.2025.112695)[J]. **Jiaxin Wang**, Dongying Shi, Shanshan Li, Jiaqi Yan, et al. **Journal of Systems and Software (ABS2, JCR Q1, CCF-B)**
 
-- AI for Web3 Ecosystems: A Socio-technical Conceptual Framework. Li Zhu, **Jiaxin Wang (Co-corresponding Author)**, Ya Liu, Qian'ang Mao, Jiaqi Yan. Forthcoming, **International Journal of Information Management (ABS2, JCR Q1, 中科院一区Top)**
+- [AI for Web3 Ecosystems: A Socio-technical Conceptual Framework](https://doi.org/10.1016/j.ijinfomgt.2026.103118)[J]. Li Zhu, **Jiaxin Wang (Co-corresponding Author)**, Ya Liu, Qian'ang Mao, Jiaqi Yan. **International Journal of Information Management (ABS2, JCR Q1, 中科院一区Top)**
 
 - [Smoke and mirrors: Uncovering hidden delegatees within crypto gambling ecosystems](https://scholarspace.manoa.hawaii.edu/items/f01d09b1-10f5-4e4f-b72c-431709ab9320)[C]. **Jiaxin Wang**, Qian'ang Mao, Hongliang Sun, Jiaqi Yan, Yani Shi. **Proceedings of the 58th Hawaii International Conference on System Sciences (HICSS-58, <strong><span style="color:#8B0000;">Best Paper Nomination</span></strong>)**.
 
@@ -114,7 +114,7 @@ My research mainly focuses on the fields of **Information Systems (IS), Software
 
 - Institutional Settlement in Code: Rethinking Blockchain Governance Beyond Design. **Jiaxin Wang**. Preparation for **Journal of the Association for Information Systems (ABS 4+, JCR Q1)**
 
-- Usable Transparency in Decentralized Systems: An Ethical Framework from a Stakeholder Theory Perspective. **Jiaxin Wang**. Preparation for **Information, Technology & People (ABS 3, JCR Q1)**
+- Usable Transparency in Decentralized Systems: An Ethical Framework from a Stakeholder Theory Perspective. **Jiaxin Wang**. Under the 1st Review of **Information, Technology & People (ABS 3, JCR Q1)**
 
 - SoK: Web3 Regulatory Technology for Cryptocurrency VASP AML/CFT Compliance. Qian’ang Mao, Jiaxin Wang, Ya Liu, Li Zhu, Jiaman Chen, Jiaqi Yan. Under the 2nd Review of **Blockchain: Research and Applications (CCF-B, JCR Q1, 中科院二区)**
 
