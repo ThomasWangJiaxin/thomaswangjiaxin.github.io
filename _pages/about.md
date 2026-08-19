@@ -108,7 +108,7 @@ My research mainly focuses on the fields of **Information Systems (IS), Software
 
 # 📝 Working Papers 
 
-- The Diffusion and Competition of Blockchain Open-source Software: Evidence from Developer Participation. **Jiaxin Wang**, Zhengrui Jiang*, Jiaqi Yan. Under the 1st Review of **Management Science (UTD-24, FT50, ABS 4+)**
+- The Diffusion and Competition of Blockchain Open-source Software: Evidence from Developer Participation. **Jiaxin Wang**, Zhengrui Jiang*, Jiaqi Yan. Preparation for submission to **Information Systems Research (UTD-24, FT-50, ABS 4+)**
 
 - The Business Ethics of Decentralization for Blockchain-based Governance. **Jiaxin Wang**. Under the 1st Review of **Journal of Business Ethics (ABS 3, ex-FT50, JCR Q1)**
 
@@ -118,9 +118,9 @@ My research mainly focuses on the fields of **Information Systems (IS), Software
 
 - SoK: Web3 Regulatory Technology for Cryptocurrency VASP AML/CFT Compliance. Qian’ang Mao, Jiaxin Wang, Ya Liu, Li Zhu, Jiaman Chen, Jiaqi Yan. Under the 2nd Review of **Blockchain: Research and Applications (CCF-B, JCR Q1, 中科院二区)**
 
-- The Dark Side of Web3: A Taxonomy of Risks in Decentralized Ecosystems. **Jiaxin Wang**. Writing
+- Mapping the Dark Side of Web3: An Integrative Framework of Risks in Blockchain-Enabled Decentralized Ecosystems. **Jiaxin Wang**. Writing
 
-<!-- Sok: Blockchain Forks. **Jiaxin Wang**. Writing -->
+- Blockchain Splits as Sociotechnical Divergence: A Comparative Case Analysis of Governance in Decentralized Platforms. **Jiaxin Wang**. Writing
 
 <!-- The Fight for the On-chain War Chest: Role-Based Ecosystem Analytics for Wartime Cryptocurrency Sanctions and Fundraising. Qian'ang Mao, **Jiaxin Wang**, Jiaqi Yan. Writing -->
 
