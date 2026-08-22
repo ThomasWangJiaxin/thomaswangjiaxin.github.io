@@ -120,7 +120,7 @@ My research mainly focuses on the fields of **Information Systems (IS), Software
 
 - Mapping the Dark Side of Web3: A Taxonomy and Integrative Framework for Responsible Governance in Decentralized Ecosystems. **Jiaxin Wang**. Writing for **Journal of Strategic Information Systems (ABS 4, JCR Q1)**
 
-- Blockchain Splits as Sociotechnical Divergence: A Review and Comparative Analysis of Governance in Decentralized Platforms. **Jiaxin Wang**. Writing for **Journal of Strategic Information Systems (ABS 4, JCR Q1)**
+- Blockchain Splits as Sociotechnical Divergence: A Review and Comparative Analysis of Governance in Decentralized Platforms. **Jiaxin Wang**. Writing for **Technological Forecasting and Social Change (ABS 3, JCR Q1)**
 
 <!-- The Fight for the On-chain War Chest: Role-Based Ecosystem Analytics for Wartime Cryptocurrency Sanctions and Fundraising. Qian'ang Mao, **Jiaxin Wang**, Jiaqi Yan. Writing -->
 
