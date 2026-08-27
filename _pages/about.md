@@ -110,17 +110,19 @@ My research mainly focuses on the fields of **Information Systems (IS), Software
 
 - Modeling Developer Diffusion in Open-Source Blockchain Ecosystems: A Flow-Augmented Competitive Bass Model. **Jiaxin Wang**, Zhengrui Jiang*, Jiaqi Yan. Preparation for **Information Systems Research (UTD-24, FT-50, ABS 4+)**
 
-- Usable Transparency in Decentralized Systems: An Ethical Framework from a Stakeholder Theory Perspective. **Jiaxin Wang**. Under the 1st Review of **Information, Technology & People (ABS 3, JCR Q1)**
+- Usable Transparency in Decentralized Systems: An Ethical Framework from a Stakeholder Theory Perspective. **Jiaxin Wang**. Submission to **Information, Technology & People (ABS 3, JCR Q1)**
 
 - SoK: Web3 Regulatory Technology for Cryptocurrency VASP AML/CFT Compliance. Qian’ang Mao, Jiaxin Wang, Ya Liu, Li Zhu, Jiaman Chen, Jiaqi Yan. Under the 2nd Review of **Blockchain: Research and Applications (CCF-B, JCR Q1)**
 
-- (De)centralization in Blockchain-Based Governance: An Analytical Framework and Multi-Case Study. **Jiaxin Wang**. Preparation for **Journal of Strategic Information Systems (ABS 4, JCR Q1)**
+- (De)centralization in Blockchain-Based Governance: An Analytical Framework and Multi-Case Study. **Jiaxin Wang**. Submission to **Technological Forecasting and Social Change (ABS 3, JCR Q1)**
 
 - When Institutional Logics Meet Programmable Infrastructure: Code-Mediated Settlement in Blockchain Governance. **Jiaxin Wang**. Preparation for **Journal of the Association for Information Systems (ABS 4+, JCR Q1)**
 
+- Blockchain Splits as Sociotechnical Divergence: A Review and Comparative Analysis of Governance in Decentralized Platforms. **Jiaxin Wang**. Writing for **Technological Forecasting and Social Change (ABS 3, JCR Q1)**
+
 - Mapping the Dark Side of Web3: A Taxonomy and Integrative Framework for Responsible Governance in Decentralized Ecosystems. **Jiaxin Wang**. Writing for **Journal of Strategic Information Systems (ABS 4, JCR Q1)**
 
-- Blockchain Splits as Sociotechnical Divergence: A Review and Comparative Analysis of Governance in Decentralized Platforms. **Jiaxin Wang**. Writing for **Technological Forecasting and Social Change (ABS 3, JCR Q1)**
+- Information Systems Innovation for Blockchain Governance. **Jiaxin Wang**, Yifan Li. Writing for **Journal of Strategic Information Systems (ABS 4, JCR Q1)**
 
 <!-- The Fight for the On-chain War Chest: Role-Based Ecosystem Analytics for Wartime Cryptocurrency Sanctions and Fundraising. Qian'ang Mao, **Jiaxin Wang**, Jiaqi Yan. Writing -->
 
