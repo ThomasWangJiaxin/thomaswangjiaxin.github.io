@@ -118,7 +118,7 @@ My research mainly focuses on the fields of **Information Systems (IS), Software
 
 - When Institutional Logics Meet Programmable Infrastructure: Code-Mediated Settlement in Blockchain Governance. **Jiaxin Wang**. Preparation for **Journal of the Association for Information Systems (ABS 4+, JCR Q1)**
 
-- Blockchain Splits as Sociotechnical Divergence: A Review and Comparative Analysis of Governance in Decentralized Platforms. **Jiaxin Wang**. Writing for **Information Systems Frontiers (ABS 3, JCR Q1)**
+- Blockchain Splits as Sociotechnical Divergence: A Review and Comparative Analysis of Governance in Decentralized Platforms. **Jiaxin Wang**. Preparation for **Information Systems Frontiers (ABS 3, JCR Q1)**
 
 - Information Systems Innovation for Blockchain Governance. **Jiaxin Wang**, Yifan Li. Writing for **Journal of Strategic Information Systems (ABS 4, JCR Q1)**
 
