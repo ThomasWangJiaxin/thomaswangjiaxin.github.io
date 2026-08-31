@@ -118,7 +118,7 @@ My research mainly focuses on the fields of **Information Systems (IS), Software
 
 - When Institutional Logics Meet Programmable Infrastructure: Code-Mediated Settlement in Blockchain Governance. **Jiaxin Wang**. Preparation for **Journal of the Association for Information Systems (ABS 4+, JCR Q1)**
 
-- Blockchain Splits as Sociotechnical Divergence: A Review and Comparative Analysis of Governance in Decentralized Platforms. **Jiaxin Wang**. Preparation for **Information Systems Frontiers (ABS 3, JCR Q1)**
+- Blockchain Splits as Sociotechnical Divergence: A Review and Comparative Analysis of Governance in Decentralized Platforms. **Jiaxin Wang**. Submitted to **Information Systems Frontiers (ABS 3, JCR Q1)**
 
 - Information Systems Innovation for Blockchain Governance. **Jiaxin Wang**, Yifan Li. Writing for **Journal of Strategic Information Systems (ABS 4, JCR Q1)**
 
@@ -135,7 +135,7 @@ My research mainly focuses on the fields of **Information Systems (IS), Software
 
 # 📝 Presentation 
 
-- Developer Participation, Diffusion, and Governance in Blockchain Open-Source Software [*Oral Presentation*]. **Jiaxin Wang**. **Pacific Asia Conference on Information Systems (PACIS 2026) Doctor Consortium; International Conference on Electronic Business (ICEB 2026) Doctor Consortium; CNAIS-UNNC-2026 Paper Development Workshop**.
+- Developer Participation, Diffusion, and Governance in Blockchain Open-Source Software [*Oral Presentation*]. **Jiaxin Wang**. **Pacific Asia Conference on Information Systems (PACIS 2026) Doctoral Consortium; International Conference on Electronic Business (ICEB 2026) Doctor Consortium; CNAIS-UNNC-2026 Paper Development Workshop**.
 
 - Gamblers or Delegatees: Identifying Hidden Participant Roles in Crypto Casinos [*Oral Presentation*]. **Jiaxin Wang**. **[中国工业与应用数学学会2026年区块链与金融科技算法联合学术年会](https://m.csiam.org.cn/1005/202604/2720.html) (<strong><span style="color:#8B0000;">高质量博士（后）论文一等奖</span></strong>)**
 
