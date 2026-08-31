@@ -186,8 +186,8 @@ My research mainly focuses on the fields of **Information Systems (IS), Software
 - 南京大学本科生通识课程《数字货币、金融科技与监管科技》
 
 # 💬 Services
-- [Journal Reviews:《IEEE Transactions on Engineering Management》(ABS3, JCR Q1)《Journal of Intellectual Capital》(JCR Q1),《IET Blockchain》(EI) Reviewer](https://orcid.org/0000-0002-8432-7902)
-- Conference Reviews: ICIS2025, PACIS2024/2025, HICSS-58/59/60; WWW2024, WWW2025, KDD2024, AAAI2026, AAAI2027
+- [Journal Peer Reviews:《Information Systems Frontiers》(ABS3, JCR Q1);《IEEE Transactions on Engineering Management》(ABS3, JCR Q1);《Journal of Intellectual Capital》(ABS2, JCR Q1);《IET Blockchain》(EI) Reviewer](https://orcid.org/0000-0002-8432-7902)
+- Conference Peer Reviews: ICIS2025, PACIS2024/2025, HICSS-58/59/60; WWW2024, WWW2025, KDD2024, AAAI2026, AAAI2027
 - [Association of Information Systems (AIS) Doctoral Student College Volunteers - Region 3 Coordinator in 2025](https://communities.aisnet.org/doctoralstudentcollege/get-involved)
 
 # 💻 Internships
