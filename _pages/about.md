@@ -122,6 +122,8 @@ My research mainly focuses on the fields of **Information Systems (IS), Software
 
 - Information Systems Innovation for Blockchain Governance. **Jiaxin Wang**, Yifan Li. Writing for **Journal of Strategic Information Systems (ABS 4, JCR Q1)**
 
+- When Proof Is Not Verification: Misleading Assurance in Blockchain Gambling. **Jiaxin Wang**. Writing for **Journal of Business Ethics (ABS 3, JCR Q1)**
+
 - Mapping the Dark Side of Web3: A Taxonomy and Integrative Framework for Responsible Governance in Decentralized Ecosystems. **Jiaxin Wang**. Writing for **Journal of Strategic Information Systems (ABS 4, JCR Q1)**
 
 <!-- The Fight for the On-chain War Chest: Role-Based Ecosystem Analytics for Wartime Cryptocurrency Sanctions and Fundraising. Qian'ang Mao, **Jiaxin Wang**, Jiaqi Yan. Writing -->
