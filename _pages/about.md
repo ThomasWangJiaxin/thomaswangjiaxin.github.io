@@ -120,11 +120,11 @@ My research mainly focuses on the fields of **Information Systems (IS), Software
 
 - When Proof Is Not Verification: Misleading Assurance in Blockchain Gambling. **Jiaxin Wang**. Submitted to **Journal of Business Ethics (ABS 3, JCR Q1)**
 
+- Playing, Working, Speculating: Role Hybridity and Exploitation in Blockchain Games. **Jiaxin Wang**. Submitted to **Journal of Business Ethics (ABS 3, JCR Q1)**
+
 - Information Systems Innovation for Blockchain Governance. **Jiaxin Wang**, Yifan Li. Writing for **Journal of Strategic Information Systems (ABS 4, JCR Q1)**
 
-- When Institutional Logics Meet Programmable Infrastructure: Code-Mediated Settlement in Blockchain Governance. **Jiaxin Wang**. Preparation for **Journal of the Association for Information Systems (ABS 4+, JCR Q1)**
-
-- Playing, Working, Speculating: Role Hybridity and Exploitation in Blockchain Games. **Jiaxin Wang**. Writing for **Journal of Business Ethics (ABS 3, JCR Q1)**
+- When Institutional Logics Meet Programmable Infrastructure: Code-Mediated Settlement in Blockchain Governance. **Jiaxin Wang**. Writing for **Journal of the Association for Information Systems (ABS 4+, JCR Q1)**
 
 - Mapping the Dark Side of Web3: A Taxonomy and Integrative Framework for Responsible Governance in Decentralized Ecosystems. **Jiaxin Wang**. Writing for **Journal of Strategic Information Systems (ABS 4, JCR Q1)**
 
