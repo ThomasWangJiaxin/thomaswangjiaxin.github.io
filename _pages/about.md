@@ -122,6 +122,8 @@ My research mainly focuses on the fields of **Information Systems (IS), Software
 
 - Playing, Working, Speculating: Role Hybridity and Exploitation in Blockchain Games. **Jiaxin Wang**. Submitted to **Journal of Business Ethics (ABS 3, JCR Q1)**
 
+- Speculative Relational Commodification: Tokenized Access and the Ethics of SocialFi. **Jiaxin Wang**. Submitted to **Ethics and Information Technology (ABS 1, JCR Q1)**
+
 - Information Systems Innovation for Blockchain Governance. **Jiaxin Wang**, Yifan Li. Writing for **Journal of Strategic Information Systems (ABS 4, JCR Q1)**
 
 - When Institutional Logics Meet Programmable Infrastructure: Code-Mediated Settlement in Blockchain Governance. **Jiaxin Wang**. Writing for **Journal of the Association for Information Systems (ABS 4+, JCR Q1)**
