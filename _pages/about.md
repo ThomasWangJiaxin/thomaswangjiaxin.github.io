@@ -34,7 +34,7 @@ My research mainly focuses on the fields of **Information Systems (IS), Software
 - Research Question: To analyze blockchain open-source ecosystems related to core contributor role evolution, community governance, and competitive diffusion.
 
 
-**C. Ethics of Decentralized Systems**: 
+**C. Ethics of Information Technology**: 
 
 - Methodologies: **Theory analysis — Normative analysis, Conceptual analysis**
 
