@@ -36,16 +36,24 @@ My research mainly focuses on the fields of **Information Systems (IS), Software
 
 **C. Ethics of Decentralized Systems**: 
 
-- Methodologies: **Theory and Qualitative analysis — Conceptual analysis, Case study, Interviews**
+- Methodologies: **Theory and Qualitative analysis — Normative analysis, Conceptual analysis, Case study**
 
 - Research Question: To examine the ethical implications of blockchain-based systems, including questions of transparency, informational fairness, epistemic justice, and governance accountability across decentralized ecosystems.
 
 
 **D. Technology Trends**: 
 
+- Methodologies: **Quantitative and Qualitative analysis — Discourse analysis, Text analysis**
+
+- Research Question: To examine the
+
+
+**E. Technology Trends**: 
+
 - Methodologies: **Bibliometrics - Literature Review, Topic Modeling/Coding**
 
 - Research Question: To review the current status and future trends of blockchain's integration with other frontier technologies, including Federated Learning and AI.
+
 
 
 <!-- I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=Vm54jdoAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=Vm54jdoAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
