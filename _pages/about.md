@@ -41,7 +41,7 @@ My research mainly focuses on the fields of **Information Systems (IS), Software
 - Research Question: To examine the ethical implications of blockchain-based systems, including questions of transparency, informational fairness, epistemic justice, and governance accountability across decentralized ecosystems.
 
 
-**D. Technology Trends**: 
+**D. Computational Communication**: 
 
 - Methodologies: **Quantitative and Qualitative analysis — Discourse analysis, Text analysis**
 
