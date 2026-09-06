@@ -29,21 +29,21 @@ My research mainly focuses on the fields of **Information Systems (IS), Software
 
 **B. Open-Source Software**: 
 
-- Methodologies: **Quantitative and Qualitative analysis - Predictive Modeling (Bass Diffusion Model), Econometrics (Survival Analysis, DID), Software Engineering** 
+- Methodologies: **Quantitative and Qualitative analysis - Predictive Modeling (Bass Diffusion Model), Econometrics (Survival Analysis, DID); Interviews, Case Study**
 
 - Research Question: To analyze blockchain open-source ecosystems related to core contributor role evolution, community governance, and competitive diffusion.
 
 
 **C. Ethics of Decentralized Systems**: 
 
-- Methodologies: **Theory and Qualitative analysis — Normative analysis, Conceptual analysis, Case study**
+- Methodologies: **Theory analysis — Normative analysis, Conceptual analysis**
 
 - Research Question: To examine the ethical implications of blockchain-based systems, including questions of transparency, informational fairness, epistemic justice, and governance accountability across decentralized ecosystems.
 
 
 **D. Computational Communication**: 
 
-- Methodologies: **Quantitative and Qualitative analysis — Discourse analysis, Text analysis**
+- Methodologies: **Quantitative and Qualitative analysis — Discourse analysis, Text analysis, Topic Modeling/Coding**
 
 - Research Question: To examine the
 
