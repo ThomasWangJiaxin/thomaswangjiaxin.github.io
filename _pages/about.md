@@ -124,7 +124,7 @@ My research mainly focuses on the fields of **Information Systems (IS), Software
 
 - (De)centralization in Blockchain-Based Governance: An Analytical Framework and Multi-Case Study. **Jiaxin Wang**. Submitted to **Technology in Society (ABS 2, JCR Q1)**
 
-- Blockchain Splits as Sociotechnical Divergence: A Review and Comparative Analysis of Governance in Decentralized Platforms. **Jiaxin Wang**. Submitted to **IEEE Transactions on Engineering Management (ABS 3, JCR Q1)**
+- Understanding Sociotechnical Divergence in Decentralized Platform Governance: A Comparative Analysis of Blockchain Splits. **Jiaxin Wang**. Submitted to **Technovation (ABS 3, JCR Q1)**
 
 - When Proof Is Not Verification: Misleading Assurance in Blockchain Gambling. **Jiaxin Wang**. Submitted to **Journal of Business Ethics (ABS 3, JCR Q1)**
 
@@ -132,9 +132,9 @@ My research mainly focuses on the fields of **Information Systems (IS), Software
 
 - Speculative Relational Commodification: Tokenized Access and the Ethics of SocialFi. **Jiaxin Wang**. Submitted to **Ethics and Information Technology (ABS 1, JCR Q1)**
 
-- Information Systems Innovation for Blockchain Governance. **Jiaxin Wang**, Yifan Li. Writing for **Journal of Strategic Information Systems (ABS 4, JCR Q1)**
+- When Governance Becomes Executable: Code-Mediated Institutional Settlement in Blockchain Infrastructure. **Jiaxin Wang**. Preparation for **Journal of the Association for Information Systems (ABS 4+, JCR Q1)**
 
-- Institutional Settlement in Code: Rethinking Blockchain Governance from the conflict-based perspective. **Jiaxin Wang**. Writing for **Journal of the Association for Information Systems (ABS 4+, JCR Q1)**
+- Information Systems Innovation for Blockchain Governance. **Jiaxin Wang**, Yifan Li. Writing for **Journal of Strategic Information Systems (ABS 4, JCR Q1)**
 
 - Mapping the Dark Side of Web3: A Taxonomy and Integrative Framework for Responsible Governance in Decentralized Ecosystems. **Jiaxin Wang**. Writing for **Journal of Strategic Information Systems (ABS 4, JCR Q1)**
 
