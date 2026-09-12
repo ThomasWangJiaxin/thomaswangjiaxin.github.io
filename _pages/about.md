@@ -134,17 +134,15 @@ My research mainly focuses on the fields of **Information Systems (IS), Software
 
 - When Governance Becomes Executable: Code-Mediated Institutional Settlement in Blockchain Infrastructure. **Jiaxin Wang**. Preparation for **Journal of the Association for Information Systems (ABS 4+, JCR Q1)**
 
-- Mapping the Dark Side of Web3: A Taxonomy and Integrative Framework for Responsible Governance in Decentralized Ecosystems. **Jiaxin Wang**. Writing for **Information Systems Frontiers (ABS 3, JCR Q1)**
-
 - Information Systems Innovation for Blockchain Governance. **Jiaxin Wang**, Yifan Li. Writing for **Journal of Strategic Information Systems (ABS 4, JCR Q1)**
-
-<!-- The Fight for the On-chain War Chest: Role-Based Ecosystem Analytics for Wartime Cryptocurrency Sanctions and Fundraising. Qian'ang Mao, **Jiaxin Wang**, Jiaqi Yan. Writing -->
 
 <!-- Understanding the Motivations and Roles of Developers in Blockchain Open-source Software. **Jiaxin Wang**.-->
 
-<!-- An Empirical Study of Bitcoin Forks: A Multi-Stakeholder Perspective. **Jiaxin Wang**.-->
+<!-- Mapping the Dark Side of Web3: A Taxonomy and Integrative Framework for Responsible Governance in Decentralized Ecosystems/Towards Responsible Decentralized Ecosystems: A Survey of Risks and Governance Responses. **Jiaxin Wang**. -->
 
-<!-- Boundary-spanning Identities in Blockchain Innovation Domains. **Jiaxin Wang**.-->
+<!-- Boundary-spanning Identities in Blockchain Innovation Domains. **Jiaxin Wang**. Writing for Research Policy-->
+
+<!-- An Empirical Study of Bitcoin Forks: A Multi-Stakeholder Perspective. **Jiaxin Wang**.-->
 
 
 # 📝 Presentation 
