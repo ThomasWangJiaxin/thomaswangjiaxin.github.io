@@ -93,7 +93,7 @@ My research mainly focuses on the fields of **Information Systems (IS), Software
 
 - Quantifying the Hydra Effect: Measuring the Resilience of Darknet-Market Cryptocurrency Network through Role-Invariant Graph Learning[C]. Qian'ang Mao, **Jiaxin Wang**, Jiaqi Yan. **Conditionally Accepted by International Conference on Information Systems (ICIS 2026)**.
 
-- [Targeting the Achilles’ Heel: A GNN Framework for Dismantling Cryptocurrency War-Financing Networks](https://aisel.aisnet.org/icis2024/blockchain/blockchain/6/)[C]. Qian'ang Mao, **Jiaxin Wang**, Jiaqi Yan et al. **Proceedings of International Conference on Information Systems (ICIS 2024, <strong><span style="color:#8B0000;">Best Paper Nomination & Best Paper in Track</span></strong>)**.
+- [Targeting the Achilles’ Heel: A GNN Framework for Dismantling Cryptocurrency War-Financing Networks](https://aisel.aisnet.org/icis2024/blockchain/blockchain/6/)[C]. Qian'ang Mao, **Jiaxin Wang**, Jiaqi Yan et al. **Proceedings of the International Conference on Information Systems (ICIS 2024, <strong><span style="color:#8B0000;">Best Paper Nomination & Best Paper in Track</span></strong>)**.
 
 - [Identifying Crypto Addresses with Gambling Behaviors: A Graph Neural Network Approach](https://aisel.aisnet.org/pacis2023/210/)[C]. **Jiaxin Wang**, Qian'ang Mao, Jiaqi Yan et al. **Proceedings of Pacific Asia Conference on Information Systems (PACIS 2023)**, Nanchang, China.
 
@@ -126,7 +126,7 @@ My research mainly focuses on the fields of **Information Systems (IS), Software
 
 - Understanding Sociotechnical Divergence in Decentralized Platform Governance: A Comparative Analysis of Blockchain Splits. **Jiaxin Wang**. Submitted to **Technovation (ABS 3, JCR Q1)**
 
-- When Proof Is Not Verification: Misleading Assurance in Blockchain Gambling. **Jiaxin Wang**. Submitted to **Journal of Business Ethics (ABS 3, JCR Q1)**
+- When Verifiability Is Not Verification: Misleading Assurance in Blockchain Gambling. **Jiaxin Wang**. Submitted to **Journal of Business Ethics (ABS 3, JCR Q1)**
 
 - Playing, Working, Speculating: Role Hybridity and Exploitation in Blockchain Games. **Jiaxin Wang**. Submitted to **Journal of Business Ethics (ABS 3, JCR Q1)**
 
