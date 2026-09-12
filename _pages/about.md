@@ -134,7 +134,7 @@ My research mainly focuses on the fields of **Information Systems (IS), Software
 
 - When Governance Becomes Executable: Code-Mediated Institutional Settlement in Blockchain Infrastructure. **Jiaxin Wang**. Preparation for **Journal of the Association for Information Systems (ABS 4+, JCR Q1)**
 
-- Information Systems Innovation for Blockchain Governance. **Jiaxin Wang**, Yifan Li. Writing for **Journal of Strategic Information Systems (ABS 4, JCR Q1)**
+- Information Systems Innovation for Responsible Blockchain Governance. **Jiaxin Wang**, Yifan Li. Writing for **Journal of Strategic Information Systems (ABS 4, JCR Q1)**
 
 <!-- Understanding the Motivations and Roles of Developers in Blockchain Open-source Software. **Jiaxin Wang**.-->
 
