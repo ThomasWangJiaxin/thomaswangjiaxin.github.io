@@ -138,7 +138,7 @@ My research mainly focuses on the fields of **Information Systems (IS), Software
 
 <!-- Understanding the Motivations and Roles of Developers in Blockchain Open-source Software. **Jiaxin Wang**.-->
 
-<!-- Mapping the Dark Side of Web3: A Taxonomy and Integrative Framework for Responsible Governance in Decentralized Ecosystems/Towards Responsible Decentralized Ecosystems: A Survey of Risks and Governance Responses. **Jiaxin Wang**. -->
+<!-- Mapping the Dark Side of Web3: A Taxonomy and Integrative Framework for Responsible Governance in Decentralized Ecosystems/The Dark Side of Web3 Ecosystems: A Survey and Taxonomy of Risks, Consequences, and Governance Responses. **Jiaxin Wang**. -->
 
 <!-- Boundary-spanning Identities in Blockchain Innovation Domains. **Jiaxin Wang**. Writing for Research Policy-->
 
