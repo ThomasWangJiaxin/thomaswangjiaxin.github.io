@@ -116,25 +116,25 @@ My research mainly focuses on the fields of **Information Systems (IS), Software
 
 # 📝 Working Papers 
 
+- Understanding Sociotechnical Divergence in Decentralized Platform Governance: A Comparative Analysis of Blockchain Splits. **Jiaxin Wang**. Under the 1st Review of **Technological Forecasting & Social Change (ABS 3, JCR Q1)**
+
 - Modeling Developer Diffusion in Open-Source Blockchain Ecosystems: A Flow-Augmented Competitive Bass Model. **Jiaxin Wang**, Zhengrui Jiang*, Jiaqi Yan. Preparation for **Information Systems Research (UTD-24, FT-50, ABS 4+)**
 
-- Usable Transparency in Decentralized Systems: An Ethical Framework from a Stakeholder Theory Perspective. **Jiaxin Wang**. Submitted to **Information, Technology & People (ABS 3, JCR Q1)**
+- Governance Conflict in Blockchain Infrastructure: An Institutional Logics Perspective. **Jiaxin Wang**. Preparation for **Journal of the Association for Information Systems (ABS 4+, JCR Q1)**
 
-- SoK: Web3 Regulatory Technology for Cryptocurrency VASP AML/CFT Compliance. Qian’ang Mao, Jiaxin Wang, Ya Liu, Li Zhu, Jiaman Chen, Jiaqi Yan. Under the 2nd Review of **Blockchain: Research and Applications (CCF-B, JCR Q1)**
+- Usable Transparency in Decentralized Systems: An Ethical Framework from a Stakeholder Theory Perspective. **Jiaxin Wang**. Submitted to **International Journal of Ethics and Systems (JCR Q1)**
 
-- (De)centralization in Blockchain-Based Governance: An Analytical Framework and Multi-Case Study. **Jiaxin Wang**. Submitted to **Technology in Society (ABS 2, JCR Q1)**
+- (De)centralization in Blockchain-Based Governance: An Analytical Framework and Multi-Case Study. **Jiaxin Wang**. Submitted to **Electronic Markets (ABS 2, JCR Q1)**
 
-- Understanding Sociotechnical Divergence in Decentralized Platform Governance: A Comparative Analysis of Blockchain Splits. **Jiaxin Wang**. Submitted to **Technovation (ABS 3, JCR Q1)**
+- When Verifiability Is Not Verification: Misleading Assurance in Blockchain Gambling. **Jiaxin Wang**. Submitted to **Ethics and Information Technology (JCR Q1)**
 
-- When Verifiability Is Not Verification: Misleading Assurance in Blockchain Gambling. **Jiaxin Wang**. Submitted to **Journal of Business Ethics (ABS 3, JCR Q1)**
+- Playing, Working, Speculating: Role Hybridity and Exploitation in Blockchain Games. **Jiaxin Wang**. Submitted to **Ethics and Information Technology (JCR Q1)**
 
-- Playing, Working, Speculating: Role Hybridity and Exploitation in Blockchain Games. **Jiaxin Wang**. Submitted to **Journal of Business Ethics (ABS 3, JCR Q1)**
-
-- Speculative Relational Commodification: Tokenized Access and the Ethics of SocialFi. **Jiaxin Wang**. Submitted to **Ethics and Information Technology (ABS 1, JCR Q1)**
-
-- When Governance Becomes Executable: Code-Mediated Institutional Settlement in Blockchain Infrastructure. **Jiaxin Wang**. Preparation for **Journal of the Association for Information Systems (ABS 4+, JCR Q1)**
+- Speculative Relational Commodification: Tokenized Access and the Ethics of SocialFi. **Jiaxin Wang**. Submitted to **Ethics and Information Technology (JCR Q1)**
 
 - Information Systems Innovation for Blockchain Governance. **Jiaxin Wang**, Yifan Li. Writing for **Journal of Strategic Information Systems (ABS 4, JCR Q1)**
+
+- SoK: Web3 Regulatory Technology for Cryptocurrency VASP AML/CFT Compliance. Qian’ang Mao, Jiaxin Wang, Ya Liu, Li Zhu, Jiaman Chen, Jiaqi Yan. Under the 2nd Review of **Blockchain: Research and Applications (CCF-B, JCR Q1)**
 
 <!-- Understanding the Motivations and Roles of Developers in Blockchain Open-source Software. **Jiaxin Wang**.-->
 
@@ -194,8 +194,9 @@ My research mainly focuses on the fields of **Information Systems (IS), Software
 
 # 💬 Teaching Assistant
 - 南京大学本科生《信息组织》(2025春、2024春、2023春)
-- 南京大学本科生通识课程《区块链与创新思维》
+- 南京大学本科生通识课程、慕课《区块链与创新思维》
 - 南京大学本科生通识课程《数字货币、金融科技与监管科技》
+- 南京大学留学生课程《Information Organization》
 
 # 💬 Services
 - [Journal Peer Reviews:《Information Systems Frontiers》(ABS3, JCR Q1);《IEEE Transactions on Engineering Management》(ABS3, JCR Q1);《Journal of Intellectual Capital》(ABS2, JCR Q1);《IET Blockchain》(EI) Reviewer](https://orcid.org/0000-0002-8432-7902)
