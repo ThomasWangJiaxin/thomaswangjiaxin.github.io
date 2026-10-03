@@ -122,7 +122,7 @@ My research mainly focuses on the fields of **Information Systems (IS), Software
 
 - Governance Conflict in Blockchain Infrastructure: An Institutional Logics Perspective. **Jiaxin Wang**. Preparation for **Journal of the Association for Information Systems (ABS 4+, JCR Q1)**
 
-- Usable Transparency in Decentralized Systems: An Ethical Framework of Visibility, Intelligibility, and Contestability. **Jiaxin Wang**. Submitted to **International Journal of Ethics and Systems (JCR Q1)**
+- Usable Transparency in Decentralized Systems: An Ethical Framework of Visibility, Intelligibility, and Contestability. **Jiaxin Wang**. Under the 1st Review of **International Journal of Ethics and Systems (JCR Q1)**
 
 - (De)centralization in Blockchain-Based Governance: An Analytical Framework and Multi-Case Study. **Jiaxin Wang**. Submitted to **Electronic Markets (ABS 2, JCR Q1)**
 
