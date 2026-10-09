@@ -245,7 +245,7 @@ My research mainly focuses on the fields of **Information Systems (IS), Software
 
 **[Scholarship]**
 - 本科生国家奖学金(2020)
-- 宝钢优秀学生奖学金(2026)
+- 宝钢优秀学生奖学金(2026,全校7人,其中本科生4人,研究生3人)
 - [<strong><span style="color:#8B0000;">南京大学栋梁特等奖学金(2025,全校22人,其中本科生13人,研究生9人)</span></strong>](https://mp.weixin.qq.com/s/G4IKI0e3CPJoDudP-3B2qA)
 - 南京大学栋梁优秀奖学金——自主创业奖(2024)
 - 南京大学-中国光谷奖学金(2023)
