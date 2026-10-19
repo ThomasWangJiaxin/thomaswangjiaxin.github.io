@@ -91,7 +91,7 @@ My research mainly focuses on the fields of **Information Systems (IS), Software
 
 - [Smoke and mirrors: Uncovering hidden delegatees within crypto gambling ecosystems](https://scholarspace.manoa.hawaii.edu/items/f01d09b1-10f5-4e4f-b72c-431709ab9320)[C]. **Jiaxin Wang**, Qian'ang Mao, Hongliang Sun, Jiaqi Yan, Yani Shi. **Proceedings of the 58th Hawaii International Conference on System Sciences (HICSS-58, <strong><span style="color:#8B0000;">Best Paper Nomination</span></strong>)**.
 
-- Quantifying the Hydra Effect: Measuring the Resilience of Darknet-Market Cryptocurrency Network through Role-Invariant Graph Learning[C]. Qian'ang Mao, **Jiaxin Wang**, Jiaqi Yan. **Conditionally Accepted by International Conference on Information Systems (ICIS 2026)**.
+- [Quantifying the Hydra Effect: Measuring the Resilience of Darknet-Market Cryptocurrency Network through Role-Invariant Graph Learning](https://aisel.aisnet.org/icis2026/fintech/fintech/1/)[C]. Qian'ang Mao, **Jiaxin Wang**, Jiaqi Yan. **Proceedings of the International Conference on Information Systems (ICIS 2026)**.
 
 - [Targeting the Achilles’ Heel: A GNN Framework for Dismantling Cryptocurrency War-Financing Networks](https://aisel.aisnet.org/icis2024/blockchain/blockchain/6/)[C]. Qian'ang Mao, **Jiaxin Wang**, Jiaqi Yan et al. **Proceedings of the International Conference on Information Systems (ICIS 2024, <strong><span style="color:#8B0000;">Best Paper Nomination & Best Paper in Track</span></strong>)**.
 
