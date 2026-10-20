@@ -122,19 +122,19 @@ My research mainly focuses on the fields of **Information Systems (IS), Software
 
 - Governance Conflict in Blockchain Infrastructure: An Institutional Logics Perspective. **Jiaxin Wang**. Preparation for **Journal of the Association for Information Systems (ABS 4+, JCR Q1)**
 
+- Information Systems Innovation for Blockchain Governance. **Jiaxin Wang**, Yifan Li. Preparation for **Journal of Strategic Information Systems (ABS 4, JCR Q1)**
+
 - Usable Transparency in Decentralized Systems: An Ethical Framework of Visibility, Intelligibility, and Contestability. **Jiaxin Wang**. Under the 1st Review of **International Journal of Ethics and Systems (JCR Q1)**
 
 - Mapping the dark side of Web3: A thematic analysis. **Jiaxin Wang**. Submitted to **Information Systems Frontiers (ABS 3, JCR Q1)**
 
-- (De)centralization in Blockchain-Based Governance: An Analytical Framework and Multi-Case Study. **Jiaxin Wang**. Submitted to **Electronic Markets (ABS 2, JCR Q1)**
+- (De)centralization in Blockchain-Based Governance: An Analytical Framework and Multi-Case Study. **Jiaxin Wang**. Submitted to **Information, Technology and People (ABS 3, JCR Q1)**
 
-- When Verifiability Is Not Verification: Misleading Assurance in Blockchain Gambling. **Jiaxin Wang**. Submitted to **Ethics and Information Technology (JCR Q1)**
+- When Verifiability Is Not Verification: Misleading Assurance in Blockchain Gambling. **Jiaxin Wang**. Submitted to **Journal of Information, Communication and Ethics in Society (JCR Q1)**
 
-- Playing, Working, Speculating: Role Hybridity and Exploitation in Blockchain Games. **Jiaxin Wang**. Submitted to **Ethics and Information Technology (JCR Q1)**
+- Playing, Working, Speculating: Role Hybridity and Exploitation in Blockchain Games. **Jiaxin Wang**. Submitted to **International Journal of Ethics and Systems (JCR Q1)**
 
-- Speculative Relational Commodification: Tokenized Access and the Ethics of SocialFi. **Jiaxin Wang**. Submitted to **Ethics and Information Technology (JCR Q1)**
-
-- Information Systems Innovation for Blockchain Governance. **Jiaxin Wang**, Yifan Li. Writing for **Journal of Strategic Information Systems (ABS 4, JCR Q1)**
+- Speculative Relational Commodification: Tokenized Access and the Ethics of SocialFi. **Jiaxin Wang**. Submitted to **Journal of Social Philosophy (JCR Q3)**
 
 - SoK: Web3 Regulatory Technology for Cryptocurrency VASP AML/CFT Compliance. Qian’ang Mao, Jiaxin Wang, Ya Liu, Li Zhu, Jiaman Chen, Jiaqi Yan. Under the 2nd Review of **Blockchain: Research and Applications (CCF-B, JCR Q1)**
 
