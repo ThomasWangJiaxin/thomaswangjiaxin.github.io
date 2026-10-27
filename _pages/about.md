@@ -132,7 +132,7 @@ My research mainly focuses on the fields of **Information Systems (IS), Software
 
 - When Verifiability Is Not Verification: Misleading Assurance in Blockchain Gambling. **Jiaxin Wang**. Submitted to **Journal of Information, Communication and Ethics in Society (JCR Q1)**
 
-- Playing, Working, Speculating: Role Hybridity and Exploitation in Blockchain Games. **Jiaxin Wang**. Submitted to **Game and Culture (JCR Q1)**
+- Playing, Working, Speculating: Role Hybridity and Exploitation in Blockchain Games. **Jiaxin Wang**. Under the 1st Review of **Games and Culture (JCR Q1)**
 
 - Speculative Relational Commodification: Tokenized Access and the Ethics of SocialFi. **Jiaxin Wang**. Submitted to **Journal of Social Philosophy (JCR Q3)**
 
