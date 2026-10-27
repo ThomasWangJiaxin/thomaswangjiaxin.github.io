@@ -126,13 +126,13 @@ My research mainly focuses on the fields of **Information Systems (IS), Software
 
 - Usable Transparency in Decentralized Systems: An Ethical Framework of Visibility, Intelligibility, and Contestability. **Jiaxin Wang**. Under the 1st Review of **International Journal of Ethics and Systems (JCR Q1)**
 
-- Mapping the dark side of Web3: A thematic analysis. **Jiaxin Wang**. Submitted to **Information Systems Frontiers (ABS 3, JCR Q1)**
+- Mapping the Dark Side of Web3 Ecosystems: An Integrative Framework of Risks and Governance Responses. **Jiaxin Wang**. Submitted to **International Journal of Information Management (ABS2, JCR Q1)**
 
-- (De)centralization in Blockchain-Based Governance: An Analytical Framework and Multi-Case Study. **Jiaxin Wang**. Submitted to **Information, Technology and People (ABS 3, JCR Q1)**
+- (De)centralization in Blockchain-Based Governance: An Analytical Framework and Multi-Case Study. **Jiaxin Wang**. Preparing for **Information Systems Management (ABS 2, JCR Q2)**
 
 - When Verifiability Is Not Verification: Misleading Assurance in Blockchain Gambling. **Jiaxin Wang**. Submitted to **Journal of Information, Communication and Ethics in Society (JCR Q1)**
 
-- Playing, Working, Speculating: Role Hybridity and Exploitation in Blockchain Games. **Jiaxin Wang**. Submitted to **International Journal of Ethics and Systems (JCR Q1)**
+- Playing, Working, Speculating: Role Hybridity and Exploitation in Blockchain Games. **Jiaxin Wang**. Submitted to **Game and Culture (JCR Q1)**
 
 - Speculative Relational Commodification: Tokenized Access and the Ethics of SocialFi. **Jiaxin Wang**. Submitted to **Journal of Social Philosophy (JCR Q3)**
 
