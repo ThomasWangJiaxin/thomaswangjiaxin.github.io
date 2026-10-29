@@ -128,8 +128,6 @@ My research mainly focuses on the fields of **Information Systems (IS), Software
 
 - Mapping the Dark Side of Web3 Ecosystems: An Integrative Framework of Risks and Governance Responses. **Jiaxin Wang**. Submitted to **Technology in Society (ABS2, JCR Q1)**
 
-- (De)centralization in Blockchain-Based Governance: An Analytical Framework and Multi-Case Study. **Jiaxin Wang**. Preparing for **Information Systems Management (ABS 2, JCR Q2)**
-
 - When Verifiability Is Not Verification: Misleading Assurance in Blockchain Gambling. **Jiaxin Wang**. Submitted to **Journal of Information, Communication and Ethics in Society (JCR Q1)**
 
 - Playing, Working, Speculating: Role Hybridity and Exploitation in Blockchain Games. **Jiaxin Wang**. Under the 1st Review of **Games and Culture (JCR Q1)**
@@ -138,6 +136,8 @@ My research mainly focuses on the fields of **Information Systems (IS), Software
 
 - SoK: Web3 Regulatory Technology for Cryptocurrency VASP AML/CFT Compliance. Qian’ang Mao, Jiaxin Wang, Ya Liu, Li Zhu, Jiaman Chen, Jiaqi Yan. Under the 2nd Review of **Blockchain: Research and Applications (CCF-B, JCR Q1)**
 
+<!-- Assessing Decentralization in Blockchain-Based Governance: An Analytical Framework and Multi-Case Study. **Jiaxin Wang**. Preparing for **Information Systems Management (ABS 2, JCR Q2)** -->
+- 
 <!-- Understanding the Motivations and Roles of Developers in Blockchain Open-source Software. **Jiaxin Wang**.-->
 
 <!-- Boundary-spanning Identities in Blockchain Innovation Domains. **Jiaxin Wang**. Writing for Research Policy-->
