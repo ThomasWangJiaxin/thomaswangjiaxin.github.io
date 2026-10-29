@@ -126,7 +126,7 @@ My research mainly focuses on the fields of **Information Systems (IS), Software
 
 - Usable Transparency in Decentralized Systems: An Ethical Framework of Visibility, Intelligibility, and Contestability. **Jiaxin Wang**. Under the 1st Review of **International Journal of Ethics and Systems (JCR Q1)**
 
-- Mapping the Dark Side of Web3 Ecosystems: An Integrative Framework of Risks and Governance Responses. **Jiaxin Wang**. Submitted to **International Journal of Information Management (ABS2, JCR Q1)**
+- Mapping the Dark Side of Web3 Ecosystems: An Integrative Framework of Risks and Governance Responses. **Jiaxin Wang**. Submitted to **Technology in Society (ABS2, JCR Q1)**
 
 - (De)centralization in Blockchain-Based Governance: An Analytical Framework and Multi-Case Study. **Jiaxin Wang**. Preparing for **Information Systems Management (ABS 2, JCR Q2)**
 
