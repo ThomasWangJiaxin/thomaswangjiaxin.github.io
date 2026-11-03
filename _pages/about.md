@@ -118,7 +118,7 @@ My research mainly focuses on the fields of **Information Systems (IS), Software
 
 - Understanding Sociotechnical Divergence in Decentralized Platform Governance: A Comparative Analysis of Blockchain Splits. **Jiaxin Wang**. Under the 1st Review of **Technological Forecasting & Social Change (ABS 3, JCR Q1)**
 
-- Modeling Developer Diffusion in Open-Source Blockchain Ecosystems: A Flow-Augmented Competitive Bass Model. **Jiaxin Wang**, Zhengrui Jiang*, Jiaqi Yan. Preparation for **Information Systems Research (UTD-24, FT-50, ABS 4+)**
+- Modeling Developer Diffusion in Open-Source Blockchain Ecosystems: A Flow-Augmented Competitive Bass Model. **Jiaxin Wang**, Zhengrui Jiang*, Jiaqi Yan. Submitted to **Information Systems Research (UTD-24, FT-50, ABS 4+)**
 
 - Governance Conflict in Blockchain Infrastructure: An Institutional Logics Perspective. **Jiaxin Wang**. Preparation for **Journal of the Association for Information Systems (ABS 4+, JCR Q1)**
 
@@ -130,7 +130,7 @@ My research mainly focuses on the fields of **Information Systems (IS), Software
 
 - When Verifiability Is Not Verification: Misleading Assurance in Blockchain Gambling. **Jiaxin Wang**. Submitted to **Journal of Information, Communication and Ethics in Society (JCR Q1)**
 
-- Playing, Working, Speculating: Role Hybridity and Exploitation in Blockchain Games. **Jiaxin Wang**. Under the 1st Review of **Games and Culture (JCR Q1)**
+- Playing, Working, Speculating: Role Hybridity and Exploitation in Blockchain Games. **Jiaxin Wang**. Submitted to **International Journal of Ethics and Systems (JCR Q1)**
 
 - Speculative Relational Commodification: Tokenized Access and the Ethics of SocialFi. **Jiaxin Wang**. Submitted to **Journal of Social Philosophy (JCR Q3)**
 
