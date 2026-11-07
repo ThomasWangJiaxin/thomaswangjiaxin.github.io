@@ -91,11 +91,13 @@ My research mainly focuses on the fields of **Information Systems (IS), Software
 
 - [Smoke and mirrors: Uncovering hidden delegatees within crypto gambling ecosystems](https://scholarspace.manoa.hawaii.edu/items/f01d09b1-10f5-4e4f-b72c-431709ab9320)[C]. **Jiaxin Wang**, Qian'ang Mao, Hongliang Sun, Jiaqi Yan, Yani Shi. **Proceedings of the 58th Hawaii International Conference on System Sciences (HICSS-58, <strong><span style="color:#8B0000;">Best Paper Nomination</span></strong>)**.
 
+- [Identifying Crypto Addresses with Gambling Behaviors: A Graph Neural Network Approach](https://aisel.aisnet.org/pacis2023/210/)[C]. **Jiaxin Wang**, Qian'ang Mao, Jiaqi Yan et al. **Proceedings of Pacific Asia Conference on Information Systems (PACIS 2023)**, Nanchang, China.
+
+- [Detecting and Characterizing Abnormal Addresses in the Bitcoin Transaction System: A Social Network Approach](https://2022.cswimworkshop.org/index.html)[C]. **Jiaxin Wang**, Jiaqi Yan, Qian'ang Mao. **The 15th China Summer Workshop on Information Management (CSWIM 2022)**, Ningbo, China, 145-150.
+
 - [Quantifying the Hydra Effect: Measuring the Resilience of Darknet-Market Cryptocurrency Network through Role-Invariant Graph Learning](https://aisel.aisnet.org/icis2026/fintech/fintech/1/)[C]. Qian'ang Mao, **Jiaxin Wang**, Jiaqi Yan. **Proceedings of the International Conference on Information Systems (ICIS 2026)**.
 
 - [Targeting the Achilles’ Heel: A GNN Framework for Dismantling Cryptocurrency War-Financing Networks](https://aisel.aisnet.org/icis2024/blockchain/blockchain/6/)[C]. Qian'ang Mao, **Jiaxin Wang**, Jiaqi Yan et al. **Proceedings of the International Conference on Information Systems (ICIS 2024, <strong><span style="color:#8B0000;">Best Paper Nomination & Best Paper in Track</span></strong>)**.
-
-- [Identifying Crypto Addresses with Gambling Behaviors: A Graph Neural Network Approach](https://aisel.aisnet.org/pacis2023/210/)[C]. **Jiaxin Wang**, Qian'ang Mao, Jiaqi Yan et al. **Proceedings of Pacific Asia Conference on Information Systems (PACIS 2023)**, Nanchang, China.
 
 - [Detecting Collusion in Play-to-Earn Games: A Case Study of Axie Infinity](https://doi.org/10.1007/978-981-92-0291-1_13)[C]. Qian’ang Mao, **Jiaxin Wang**, Cong Ma, Yufei Chen, Jiaqi Yan. Computer Supported Cooperative Work and Social Computing (ChineseCSCW 2025). Communications in Computer and Information Science, vol 2910. Springer, Singapore, 187–201.
 
@@ -165,9 +167,7 @@ My research mainly focuses on the fields of **Information Systems (IS), Software
 
 - Detecting Collusion in Play-to-Earn Games: A Case Study of Axie Infinity [*Oral Presentation*]. Qian'ang Mao, Cong Ma, **Jiaxin Wang**, Yufei Chen, and Jiaqi Yan. **[The 10th International Conference on Smart Finance](https://sem.tongji.edu.cn/ICSF2025/index.html) (ICSF2025)**
 
-- Detecting and Characterizing Abnormal Addresses in the Bitcoin Transaction System: A Social Network Approach[*Oral Presentation*]. **Jiaxin Wang**, Jiaqi Yan, Qian'ang Mao. **The 15th China Summer Workshop on Information Management (CSWIM 2022)**, Ningbo, China, 145-150.
-
-- 开放科学背景下学术生产与开源实践的主题跨域关联研究[口头报告]. 冉玉玲, 卢明欣, **王佳鑫**, 颜嘉麒. 中国科学学与科技政策研究会第十七届全国科学计量学与科教评价研讨会, 2026. （高水平论文三等奖）
+- 开放科学背景下学术生产与开源实践的主题跨域关联研究[口头报告]. 冉玉玲, 卢明欣, **王佳鑫**, 颜嘉麒. 中国科学学与科技政策研究会第十七届全国科学计量学与科教评价研讨会, 2026. **（高水平论文三等奖）**
 
 
 # 🔥 Projects
