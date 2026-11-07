@@ -97,6 +97,8 @@ My research mainly focuses on the fields of **Information Systems (IS), Software
 
 - [Identifying Crypto Addresses with Gambling Behaviors: A Graph Neural Network Approach](https://aisel.aisnet.org/pacis2023/210/)[C]. **Jiaxin Wang**, Qian'ang Mao, Jiaqi Yan et al. **Proceedings of Pacific Asia Conference on Information Systems (PACIS 2023)**, Nanchang, China.
 
+- [Detecting Collusion in Play-to-Earn Games: A Case Study of Axie Infinity](https://doi.org/10.1007/978-981-92-0291-1_13)[C]. Qian’ang Mao, **Jiaxin Wang**, Cong Ma, Yufei Chen, Jiaqi Yan. Computer Supported Cooperative Work and Social Computing (ChineseCSCW 2025). Communications in Computer and Information Science, vol 2910. Springer, Singapore, 187–201.
+
 - [Unravelling Stablecoin-Favored Ecosystem: Extracting, Exploring On-Chain Data from TRON Blockchain](https://doi.org/10.1007/978-981-97-9412-6_21)[C]. Qian’ang Mao, **Jiaxin Wang**, Zhiqi Feng, Jiaqi Yan. **Blockchain and Web3.0 Technology Innovation and Application (BWTAC 2024)**. Communications in Computer and Information Science, vol 2277. Springer, Singapore.
 
 <!-- [Research on UAV Image Recognition Based on Convolutional Neural Network](https://doi.org/10.1109/ICAICA50127.2020.9182686)[C]. Junfei Chen, Kunyi Lu, **Jiaxin Wang**. **2020 IEEE International Conference on Artificial Intelligence and Computer Applications (ICAICA)**, Dalian, China, 2020, pp. 819-823 -->
@@ -110,6 +112,8 @@ My research mainly focuses on the fields of **Information Systems (IS), Software
 - [加密数字货币恐怖融资监管：交易模式分析与异常实体识别](https://dik.whu.edu.cn/jwk3/tsqbzs/CN/10.13366/j.dik.2022.06.055)[J]. 颜嘉麒,**王佳鑫(通讯作者)**,毛谦昂等. **图书情报知识 (CSSCI,社科基金资助期刊)**,2022,39(6):55-66. [*Translation: Cryptocurrency Terrorist Financing Regulation: Transaction Pattern Analysis and Abnormal Entity Identification[J]. Jiaqi Yan, **Jiaxin Wang (Corresponding Author)**, Qian’ang Mao, et al. **Documentation, Information & Knowledge (CSSCI, National Social Science Foundation Journal)**,2022,39(6):55–66.*]
 
 - [区块链游戏生态的角色动态识别与演化分析——以Axie Infinity为例](https://www.jas.shu.edu.cn/CN/10.3969/j.issn.0255-8297.2024.04.007)[J]. 刘凯,**王佳鑫**,毛谦昂等. **应用科学学报 (CSCD)**,2024,42(04):642-658. [*Translation: Dynamic Role Identification and Evolutionary Analysis of Blockchain Game Ecosystems: A Case Study of Axie Infinity[J]. Kai Liu, **Jiaxin Wang**, Qian’ang Mao, et al. **Journal of Applied Sciences (CSCD)**,2024,42(04):642–658.*]
+
+- [开放科学背景下学术生产与开源实践的主题跨域关联研究][J]. 冉玉玲, 卢明欣, **王佳鑫**, 颜嘉麒. **文献与数据学报**,2027.
 
 - [融合多维学术特征的引文推荐：一种基于异质图卷积网络的方法](https://www.xdqb.net/CN/10.3969/j.issn.1008-0821.2025.07.003)[J]. 柳亚,朱莉,毛谦昂,**王佳鑫**等. **现代情报 (CSSCI)**,2025,45(7):26-35. [*Translation: Citation Recommendation Integrating Multidimensional Academic Features: A Method Based on Heterogeneous Graph Convolutional Networks[J]. Ya Liu, Li Zhu, Qian’ang Mao, **Jiaxin Wang**, et al. **Journal of Modern Information (CSSCI)**,2025,45(7):26–35.*]
 
@@ -162,6 +166,9 @@ My research mainly focuses on the fields of **Information Systems (IS), Software
 - Detecting Collusion in Play-to-Earn Games: A Case Study of Axie Infinity [*Oral Presentation*]. Qian'ang Mao, Cong Ma, **Jiaxin Wang**, Yufei Chen, and Jiaqi Yan. **[The 10th International Conference on Smart Finance](https://sem.tongji.edu.cn/ICSF2025/index.html) (ICSF2025)**
 
 - Detecting and Characterizing Abnormal Addresses in the Bitcoin Transaction System: A Social Network Approach[*Oral Presentation*]. **Jiaxin Wang**, Jiaqi Yan, Qian'ang Mao. **The 15th China Summer Workshop on Information Management (CSWIM 2022)**, Ningbo, China, 145-150.
+
+- 开放科学背景下学术生产与开源实践的主题跨域关联研究[口头报告]. 冉玉玲, 卢明欣, **王佳鑫**, 颜嘉麒. 中国科学学与科技政策研究会第十七届全国科学计量学与科教评价研讨会, 2026. （高水平论文三等奖）
+
 
 # 🔥 Projects
 - 主持一项江苏省研究生实践创新计划项目——国家安全管理视域下区块链情报智能分析平台的构建 (No. SJCX22_0009, 2021-2023). [*Translation: Principal Investigator (PI) of Jiangsu Province Graduate Practice Innovation Project: "Construction of Blockchain Intelligence Analysis Platform from the Perspective of National Security Management" (No. SJCX22_0009, 2021–2023)*]
