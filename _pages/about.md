@@ -115,7 +115,7 @@ My research mainly focuses on the fields of **Information Systems (IS), Software
 
 - [区块链游戏生态的角色动态识别与演化分析——以Axie Infinity为例](https://www.jas.shu.edu.cn/CN/10.3969/j.issn.0255-8297.2024.04.007)[J]. 刘凯,**王佳鑫**,毛谦昂等. **应用科学学报 (CSCD)**,2024,42(04):642-658. [*Translation: Dynamic Role Identification and Evolutionary Analysis of Blockchain Game Ecosystems: A Case Study of Axie Infinity[J]. Kai Liu, **Jiaxin Wang**, Qian’ang Mao, et al. **Journal of Applied Sciences (CSCD)**,2024,42(04):642–658.*]
 
-- [开放科学背景下学术生产与开源实践的主题跨域关联研究][J]. 冉玉玲, 卢明欣, **王佳鑫**, 颜嘉麒. **文献与数据学报**,2027.
+- [开放科学背景下学术生产与开源实践的主题跨域关联研究][J]. 冉玉玲, 卢明欣, **王佳鑫**等. **文献与数据学报**,2027.
 
 - [融合多维学术特征的引文推荐：一种基于异质图卷积网络的方法](https://www.xdqb.net/CN/10.3969/j.issn.1008-0821.2025.07.003)[J]. 柳亚,朱莉,毛谦昂,**王佳鑫**等. **现代情报 (CSSCI)**,2025,45(7):26-35. [*Translation: Citation Recommendation Integrating Multidimensional Academic Features: A Method Based on Heterogeneous Graph Convolutional Networks[J]. Ya Liu, Li Zhu, Qian’ang Mao, **Jiaxin Wang**, et al. **Journal of Modern Information (CSSCI)**,2025,45(7):26–35.*]
 
@@ -167,7 +167,7 @@ My research mainly focuses on the fields of **Information Systems (IS), Software
 
 - Detecting Collusion in Play-to-Earn Games: A Case Study of Axie Infinity [*Oral Presentation*]. Qian'ang Mao, Cong Ma, **Jiaxin Wang**, Yufei Chen, and Jiaqi Yan. **[The 10th International Conference on Smart Finance](https://sem.tongji.edu.cn/ICSF2025/index.html) (ICSF2025)**
 
-- 开放科学背景下学术生产与开源实践的主题跨域关联研究[口头报告]. 冉玉玲, 卢明欣, **王佳鑫**, 颜嘉麒. 中国科学学与科技政策研究会第十七届全国科学计量学与科教评价研讨会, 2026. **（高水平论文三等奖）**
+- 开放科学背景下学术生产与开源实践的主题跨域关联研究[口头报告]. 冉玉玲, **王佳鑫**等. 中国科学学与科技政策研究会第十七届全国科学计量学与科教评价研讨会, 2026. **（高水平论文三等奖）**
 
 
 # 🔥 Projects
