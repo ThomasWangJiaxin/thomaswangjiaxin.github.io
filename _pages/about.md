@@ -124,23 +124,23 @@ My research mainly focuses on the fields of **Information Systems (IS), Software
 
 - Understanding Sociotechnical Divergence in Decentralized Platform Governance: A Comparative Analysis of Blockchain Splits. **Jiaxin Wang**. Under the 1st Review of **Technological Forecasting & Social Change (ABS 3, JCR Q1)**
 
-- Modeling Developer Diffusion in Open-Source Blockchain Ecosystems: A Flow-Augmented Competitive Bass Model. **Jiaxin Wang**, Zhengrui Jiang*, Jiaqi Yan. Submitted to **Information Systems Research (UTD-24, FT-50, ABS 4+)**
+- Modeling Developer Diffusion in Open-Source Blockchain Ecosystems: A Flow-Augmented Competitive Bass Model. **Jiaxin Wang**, Zhengrui Jiang*, Jiaqi Yan. Under the 1st Review of **Information Systems Research (UTD-24, FT-50, ABS 4+)**
 
 - Governance Conflict in Blockchain Infrastructure: An Institutional Logics Perspective. **Jiaxin Wang**. Preparation for **Journal of the Association for Information Systems (ABS 4+, JCR Q1)**
 
 - Information Systems Innovation for Blockchain Governance. **Jiaxin Wang**, Yifan Li. Preparation for **Journal of Strategic Information Systems (ABS 4, JCR Q1)**
 
-- Usable Transparency in Decentralized Systems: An Ethical Framework of Visibility, Intelligibility, and Contestability. **Jiaxin Wang**. Under the 1st Review of **International Journal of Ethics and Systems (JCR Q1)**
+- Usable Transparency in Decentralized Systems: An Ethical Framework of Visibility, Intelligibility, and Contestability. **Jiaxin Wang**. Under the 2nd Review of **International Journal of Ethics and Systems (JCR Q1)**
 
-- Mapping the Dark Side of Web3 Ecosystems: An Integrative Framework of Risks and Governance Responses. **Jiaxin Wang**. Submitted to **Technology in Society (ABS2, JCR Q1)**
+- Playing, Working, Speculating: Role Hybridity and Exploitation in Blockchain Games. **Jiaxin Wang**. Under the 2nd Review of **International Journal of Ethics and Systems (JCR Q1)**
 
-- When Verifiability Is Not Verification: Misleading Assurance in Blockchain Gambling. **Jiaxin Wang**. Submitted to **Journal of Information, Communication and Ethics in Society (JCR Q1)**
+- When Verifiability Is Not Verification: Misleading Assurance in Blockchain Gambling. **Jiaxin Wang**. Under the 1st Review of **Journal of Information, Communication and Ethics in Society (JCR Q1)**
 
-- Playing, Working, Speculating: Role Hybridity and Exploitation in Blockchain Games. **Jiaxin Wang**. Submitted to **International Journal of Ethics and Systems (JCR Q1)**
+- Mapping the Dark Side of Web3 Ecosystems: An Integrative Framework of Risks and Governance Responses. **Jiaxin Wang**. Submitted to **Electronic Markets (ABS2, JCR Q1)**
 
 - Speculative Relational Commodification: Tokenized Access and the Ethics of SocialFi. **Jiaxin Wang**. Submitted to **Journal of Social Philosophy (JCR Q3)**
 
-- SoK: Web3 Regulatory Technology for Cryptocurrency VASP AML/CFT Compliance. Qian’ang Mao, Jiaxin Wang, Ya Liu, Li Zhu, Jiaman Chen, Jiaqi Yan. Under the 2nd Review of **Blockchain: Research and Applications (CCF-B, JCR Q1)**
+- SoK: Web3 Regulatory Technology for Cryptocurrency VASP AML/CFT Compliance. Qian’ang Mao, Jiaxin Wang, Ya Liu, Li Zhu, Jiaman Chen, Jiaqi Yan. Under the 3rd Review of **Blockchain: Research and Applications (CCF-B, JCR Q1)**
 
 <!-- Assessing Decentralization in Blockchain-Based Governance: An Analytical Framework and Multi-Case Study. **Jiaxin Wang**. Preparing for **Information Systems Management (ABS 2, JCR Q2)** -->
 
